@@ -1,0 +1,756 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>How to be certainly saved. Instructions for a holy life [I.] The necessity, reason and means of holiness. [II.] The parts and practice of a holy life. For personal direction, and for family instruction. With two short catechisms, and prayers. Written by Rich. Baxter.</title>
+            <author>Baxter, Richard, 1615-1691.</author>
+         </titleStmt>
+         <extent>Approx. 100KB of XML-encoded text transcribed from 27 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A76179</idno><idno type="EEBO-CITATION">99897255</idno>
+  <idno type="VID">135190</idno>
+  <idno type="EEBO-PROQUEST">2240930854</idno>
+  
+            <idno type="STC">Wing B1282A</idno>
+            <idno type="STC">ESTC R231207</idno>
+            <idno type="PROQUEST">99897255</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99897255e"/>
+            <note>(EEBO-TCP ; phase 2, no. A76179)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 135190)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2471:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>How to be certainly saved. Instructions for a holy life [I.] The necessity, reason and means of holiness. [II.] The parts and practice of a holy life. For personal direction, and for family instruction. With two short catechisms, and prayers. Written by Rich. Baxter.</title>
+                  <author>Baxter, Richard, 1615-1691.</author>
+               </titleStmt>
+               <extent>47, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by Thomas Parkhurst,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>ca. 1691]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint information from Wing (CD-ROM edition).</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Salvation --  Early works to 1800.</term>
+               <term type="topical_term">Christian life --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Olivia Bottum </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:135190:1"/>
+            <pb facs="tcp:135190:1"/>
+            <head>How to be certainly Saved. <hi>Instructions for a Holy Life.</hi>
+            </head>
+            <argument>
+               <list>
+                  <item>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. The Necessity, Reason and Means of Holiness.</item>
+                  <item>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>I. The Parts and Practice of a Holy Life.</item>
+                  <item>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>or Personal Direction, and for Family Instruction. With two short Catechi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ms, and Prayers.</item>
+               </list>
+            </argument>
+            <byline>Written by <hi>RICH. BAXTER.</hi>
+            </byline>
+            <opener>
+               <salute>Reader,</salute>
+            </opener>
+            <p>
+               <hi>THis is written for the use of Poor Families. It was Printed alone long ago, and af<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er inserted into</hi> The Poor Man's Family <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ook: Ignorant <hi>Persons cannot</hi> remember <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ong and many words, <hi>nor</hi> understand <hi>a</hi> brief <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tile <hi>and</hi> few words. <hi>This maketh it impossible <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o write a Catechism, that shall not be unsuitable <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ither to the</hi> Understanding <hi>or the</hi> Memory <hi>of <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uch. I must therefore desire the Teacher to make <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>p this unavoidable Defect, by opening the mean<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>g (especially of the Catechisms) to the Children <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd Servants, when they have learned and say</hi>
+               <pb facs="tcp:135190:2"/>
+               <pb facs="tcp:135190:2"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="2" facs="tcp:135190:3"/>
+               <hi>the words: Read the Instructions often to them▪ and press all as you go on their Affections.</hi> For the bare words <hi>without a present Guide, may else be all lost.</hi>
+            </p>
+            <div type="part">
+               <head>I. The Necessity, Reason, and Means of Holiness.</head>
+               <argument>
+                  <list>
+                     <item>1. To keep up the Resolutions of the Converted. And,</item>
+                     <item>2. To i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>struct those in Families that need them.</item>
+                  </list>
+               </argument>
+               <p>THough the <note n="a" place="bottom">Mar. 8. 36. Mat. 6. 33. Jo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. <gap reason="illegible" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>4. &amp; 22. 17. Psal. 1. 2, 3. Psal. 14 &amp; 12.</note> saving of Souls be a matter of unexpressible Importance, yet (the Lord have mercy upon them); What abundance are there that think it not Worthy of their <hi>serious Inquiry,</hi> nor the <hi>reading</hi> of a <hi>good Book,</hi> one hour in a Week? For the sake of these careless <hi>slothful</hi> Sinners, I have here spoken <hi>much in a little room,</hi> that they may not refuse to read and consider so short a Lesson, unless they think their Souls worth <hi>nothing.</hi> Sinner, as thou wilt shortly an<g ref="char:EOLhyphen"/>swer it before God, deny not to God, to thy self, and me, the sober pondering, and faithful practising these few Directions.</p>
+               <p n="1">I. <hi>Begin at home and know thy self:</hi> Consider what <hi>it is to be a</hi>
+                  <note n="b" place="bottom">Psal. 8. 4<gap reason="illegible" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> Gen. 1. 26, 27. Gen. 9. 6. Col. 3. 10.</note>
+                  <hi>MAN.</hi> Thou art made a nobler Creature than the <hi>Brutes.</hi> They serve <hi>thee,</hi> and are <hi>governed</hi> by thee; and Death ends all <hi>their</hi> Pains and Pleasures. But <hi>thou</hi> hast <hi>Reason</hi> to <hi>rule thy self and them;</hi> to <hi>know t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y God,</hi> and <hi>foresee</hi> thy <hi>End,</hi> and <hi>know thy Way,</hi> and <hi>do thy Duty. Thy Reason</hi> and <hi>Free-will,</hi> and <hi>Executive Power,</hi> are part of the <hi>Image of God</hi> upon thy <hi>Nature:</hi> so is thy <hi>Domi<g ref="char:EOLhyphen"/>nion</hi> over the <hi>Brutes,</hi> as (under him) thou art their <hi>Owner,</hi> their <hi>Ruler,</hi> and their <hi>End.</hi> But thy <hi>Holy Wisdom,</hi>
+                  <pb facs="tcp:135190:3"/> and <hi>Goodness,</hi> and <hi>Ability,</hi> is the chief part of his Image, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n which thy <hi>Happiness</hi> depends. Thou hast a Soul <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hat cannot be <hi>satisfied in knowing,</hi> till thy <note n="c" place="bottom">Joh. 17. 3. 1 Joh. 4. 6, 7. Jer. <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</note> Knowledg <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>each to <hi>God himself:</hi> Nor can it be <hi>disposed</hi> by any other: Nor can it (or the Societies of the World) be <hi>well go<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>erned according to its Nature,</hi> without regard to his <hi>So<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eraign Authority,</hi> and without the <hi>hopes</hi> and <note n="d" place="bottom">Luk. 12. 4, 5.</note>
+                  <hi>fears</hi> of <hi>Joy</hi> and <hi>Misery hereafter:</hi> Nor can it be <note n="e" place="bottom">Psal. 16. 5, to 11.</note>
+                  <hi>happy</hi> in any thing, but <hi>seeing,</hi> and <hi>loving,</hi> and <hi>delighting in this God,</hi> as he is revealed in the other World. And is <hi>this Nature</hi> given thee in <hi>vain?</hi> If the Nature of <hi>all things</hi> be fitted to its <note n="f" place="bottom">Is<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>i 45. 1<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>▪</note>
+                  <hi>Use</hi> and <hi>End,</hi> then it must be so with <hi>t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ine.</hi>
+               </p>
+               <p n="2">II. By <hi>knowing thy self</hi> then, thou must needs know that <hi>there is a</hi>
+                  <note n="g" place="bottom">Psal. 14. 1. Gen. 1. 1. Rev. 1. 8. Rom. 1. 19, 20. Psal. 46. 1<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. Psal. 9. 10. Psal. 100. &amp; 23. Psal. 19. 1, 2. 3. P<gap reason="illegible" resp="#keyers" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>. 47. 7. Ezek. 18. 4. Gen. 18. 25. Mal. 1. 6.</note>
+                  <hi>GOD;</hi> and that he is thy <hi>Maker,</hi> and <hi>in<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>inite in all Perfections;</hi> and that he is thy <hi>Owner,</hi> thy <hi>Ruler,</hi> and thy <hi>Felicity</hi> or <hi>End.</hi> He is mad that seeth not, that such <hi>Creatures</hi> have a <hi>Cause</hi> or <hi>Maker;</hi> and that all the <hi>Power,</hi> and <hi>Wisdom,</hi> and <hi>Goodness</hi> of the <hi>World</hi> is caused by a <hi>Power,</hi> and <hi>Wisdom,</hi> and <hi>Goodness,</hi> which is <hi>greater</hi> than that of all the World. And <hi>who</hi> can be our <hi>Owner,</hi> but He that <hi>made us?</hi> And who can be our <hi>highest Go<g ref="char:EOLhyphen"/>vernour,</hi> but our <hi>Owner?</hi> whose infinite <hi>Power, Wisdom,</hi> and <hi>Goodness,</hi> maketh him only fit thereto. And if he be our <hi>Governour,</hi> he must needs have <hi>Laws;</hi> with <hi>Re<g ref="char:EOLhyphen"/>wards</hi> for the <hi>Good,</hi> and <hi>Punish<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ents</hi> for the <hi>Bad;</hi> and must <hi>Judge</hi> and <hi>Execute</hi> accordingly. And if he be our <hi>Chiefest Benefactor,</hi> and all that we have is <hi>from him,</hi> and all our <hi>Hope and Happiness is in him</hi> nothing can be more clear than that the very <hi>Nature of Man</hi> doth prove, that in Hope of future Happiness, he should <hi>absolutely resign himself</hi> to the <hi>Will</hi> and <hi>Disposal</hi> of this God, and that he
+<pb n="4" facs="tcp:135190:4"/> should <note n="h" place="bottom">Matth. 22. 37. Jer. 5. 22. 2 Cor. 5. 8. 9. Titus 2. 14. 2 Cor. 8. 5. &amp; 6. 16, 17, 18. 1 Pet. 2. 9. Psal. 10. Psal. 37. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. Psal. 40. 8. Col. 3. 1. 2. Mat. 6. 20, 21. 2 Cor. 4. 17, 18.</note>
+                  <hi>absolutely obey him,</hi> and that he should <hi>love and serve him</hi> with all his Power. It being impossible to <hi>Love, Obey</hi> and <hi>Please</hi> that God too much, who is thus our <hi>Cause,</hi> our <hi>End,</hi> our <hi>All.</hi>
+               </p>
+               <p n="3">III. By <hi>knowing thus thy</hi> self <hi>and</hi> God, <hi>it is easie to know what Primitive</hi> Holiness <hi>and Godliness is.</hi> Even this hear<g ref="char:EOLhyphen"/>ty, entire and absolute resignation of the Soul to God, as the infinite Power, Wisdom, and Goodness; as our Cre<g ref="char:EOLhyphen"/>ator, our Owner, Governour, and Felicity or End; fully submitting to his Disposals; obeying his Laws, in hope of his promised Rewards, and fear of his threatned Pu<g ref="char:EOLhyphen"/>nishments: and loving and delighting in himself, and all his Appearances in the World, and de<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ring and seek<g ref="char:EOLhyphen"/>ing the endless sight and enjo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ment of him in heavenly Glory, and expressing these Affections in daily Prayer, Thanksgiving and Praise. <hi>This is the Use of all thy Facul<g ref="char:EOLhyphen"/>ties; the End and Business of thy Life; the Health and Hap<g ref="char:EOLhyphen"/>piness of thy Soul: This is that Holiness or Godliness which God doth so much call for.</hi>
+               </p>
+               <p n="4">IV. And by this it is easie to know, what a <note n="k" place="bottom">Psal. 14. &amp; 1. Heb. 12. 14. Rom. 8. 12, 13. Joh. 3. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, 5, 6. 1 Joh. 2. 15, 16. Rom. 13. 14, 15. Rom. 6. 16. Luk. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>8. 23. &amp; 14. 26, 33.</note> state of Sin and Ungodliness is. Even t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e want of all this Ho<g ref="char:EOLhyphen"/>liness, and the setting of <hi>carnalf Self</hi> instead of <hi>GOD.</hi> When Men are proudly Great▪ and Wise, and Good in their own Eyes; and would dispose of themselves, and all their Concernments, and would rule themselves, and please themselves, according to the fleshly Appetite and Fancy; and therefore love most the Pleasures, and Pro<g ref="char:EOLhyphen"/>fits, and Honours of the World, as the Provision to sa<g ref="char:EOLhyphen"/>tisfy the Desires of the Flesh; and God shall be no fur<g ref="char:EOLhyphen"/>ther Loved Obeyed, or Pleased, than the Love of Fleshly pleasure will give leave; nor shall have any thing but what the Flesh can spare. This is a Wicked, a Carnal, an
+<pb n="5" facs="tcp:135190:4"/> ungodly State; though it break forth in various ways of Sinning.</p>
+               <p n="5">V. By this, Experience it self may tell you, that most Men <note n="l" place="bottom">Rom. 3. Psal. 14. Ephes 2. 2. 3. Rom. 5. 12. 17, 19. Joh. 3. 6.</note> (yea all, till Grace renew them) are in this ungodly miserable State: (Though only the Scrip<g ref="char:EOLhyphen"/>ture tells us how this came to pass). Though all are not Fornicators, nor Drunkards, nor Extortioners, nor Per<g ref="char:EOLhyphen"/>secutors, nor live not in the same way of Sinning; yet Selfishness, and Pride, and Sensuality, and the love of worldly Things, Ignorance and Ungodliness are plainly become the common Corruption of the Nature of Man; so that their Hearts are turned to the World from God, and filled with impiety, filthiness, and injustice; and their Reason is but a Servant to their Senses; and their <note n="m" place="bottom">Rom. 8. 5, 6, 7.</note> Mind, and Love, and Life, is Carnal; and this carnal Mind is Enmity to the Holiness of God, and can<g ref="char:EOLhyphen"/>not be subject to his Law. This Corruption is heredita<g ref="char:EOLhyphen"/>ry, and is become, as it were, a Nature to us, being the mortal Malady of all our Natures. And it is easy to know that such an unholy wicked Nature must needs be loathsome to God, and <note n="n" place="bottom">Psal. 4. 3. 2 Cor. 6. 14, 17.</note> unfit for the happy enjoy<g ref="char:EOLhyphen"/>ment of his Love, either here, or in the Life to come: For what communion hath Light with Darkness?</p>
+               <p n="6">VI. Hence then i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> is easy to see, <hi>what Grace is needful to a Man's Salvation.</hi> So odious a Creature, such an un<g ref="char:EOLhyphen"/>thankful Rebel, that is turned away from God, and set against him, and defiled with all this filth of Sin, must needs be both <note n="o" place="bottom">Psal. 32. 1, 2. 1 Cor. 6. 11. Tit. 2. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>4. Tit. 3. 5, 6, 7. Heb. 14. 14. Mat. 5. 8.</note> Renewed and Reconciled, Sanctified and Pardoned, if ever he will be saved. To love God, and be beloved by him, and to be delighted herein, in the sight of his Glory, is the Heaven and Happiness of Souls; and all this is contrary to an unholy State. Till Men have new and holy Hearts, they can neither see God, nor love him, nor delight in him, nor take him
+<pb n="6" facs="tcp:135190:5"/> for their chief Content; for the Flesh and World have their delight and Love. And till Sin be <note n="p" place="bottom">Rom. 5. 1, 2, 3.</note> pardoned, and God reconciled to the Soul, what Joy or Peace can it expect from him, whose Nature and Justice engageth him to loath and punish it?</p>
+               <p n="7">VII. And Experience will tell you, how <note n="q" place="bottom">Psal. 97. 7, 8, 15. 1 Cor. 2. 11, 21. Heb. 14. 12. 2 Pet. 1. 3.</note> insuffi<g ref="char:EOLhyphen"/>cient you are, for either of these two Works your selves; to renew your Souls, or to reconcile them unto God. Will a Nature that is Carnal resist and overcome the Flesh, and abhor the Sin which it most dearly loveth? Will a Worldly Mind overcome the World? When Cu<g ref="char:EOLhyphen"/>stom hath rooted your natural Corruptions, are they easily rooted up? O how great and hard a Work is it, to cause a blind unbelieving Sinner to set his Heart on another World, and lay up all his Hopes in Heaven, and to cast off all the things he seeth, for that God and Glory which he never saw! And for a hardned, worldly, fleshly heart to become Wise, and Tender, and Holy, and Heavenly, and abhor the Sin which it most fondly loveth! And what can we do to satisfy Justice, and re<g ref="char:EOLhyphen"/>concile such a rebel-Soul to God?</p>
+               <p n="8">VIII. Nature and Experience having thus acquainted you with your Sin and Misery, and what you want, will further tell you that God <note n="r" place="bottom">Act. 14. 27. &amp; 17. 24, 27, 28. Rom. 1. 19, 20 Rom. 2. 4. Job 33. 14. to 25. Mat. 12. 42, 43.</note> doth not yet deal with you according to your deserts. He giveth you Life, and Time, and Mercies, when your Sins had forfeited all these: He obligeth you to repent and turn unto him. And there<g ref="char:EOLhyphen"/>fore Experience telling you, that there is some Hope, and that God hath found out some way of shewing Mercy to the Children of Wrath, Reason will command you to enquire of all that are fit to teach you, what way of Remedy God hath made known. And, as you may <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oon discover, that the Religion of Heathens and Mahometans, is so far from shewing the true Remedy,
+<pb n="7" facs="tcp:135190:5"/> that they are part of the Disease it self: So you may learn, that a <note n="s" place="bottom">Isa. 9. 6, 7 &amp; 53. Jo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. 3. 16, 19. &amp; 1. 1, 3, 4. &amp; 3. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> † John 1. 18.</note> wonderful Person, the Lord Jesus Christ, hath undertaken the Office of being the Redeemer and Saviour of the World; and that he, who is the Eternal Word and Wisdom of the Father, hath wonderfully appeared in the Nature of Man, which he to <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> from the Virgin <hi>Mary,</hi> being conceived by the <hi>Holy Ghost;</hi> and that we might have a <hi>Teacher</hi> sent from † Heaven infal<g ref="char:EOLhyphen"/>libly and easily to acquaint the World with the Will of God, and the unseen things of Life Eternal: How God <note n="t" place="bottom">Acts 2. 22. Heb. 2. 3, 4.</note> bare Witness of his Truth, by abundent open, and uncontrouled <hi>Miracles:</hi>
+                  <note n="u" place="bottom">Mat.</note> How he conquered Satan, and the World, and <note n="w" place="bottom">1 Pet. 2. 22, 23, 24 25. Mat. 26. 27, 28. Act. 1. Heb 4. Ep 1. 22, 23. Rom. 5. 1, 3, 9. Heb. 8. 9, 13. &amp; 8. 6, 7. Heb. 7. 2 1 John 5. 10, 12. John 5. 22. &amp; 3. 18, 19. Mat. 25.</note> gave us an Example of perfect Righteousness, and underwent the Scorn and Cruelty of Sinners, and suffered the Death of the Cross, as a Sa<g ref="char:EOLhyphen"/>crifice for our Sins to reconcile us unto God: How he rose again the third day, and conquered Death, and lived forty days longer on Earth, instructing his Apo<g ref="char:EOLhyphen"/>stles, and giving them Commission to preach the Gospel to all the World; and then ascended bodily into Heaven, while they gazed after him: How he is now in Heaven both God and Man in one Person, the Teacher, and King, and High-Priest of his Church. Of Him must we learn the way of Life; by Him must we be ruled as the Phy<g ref="char:EOLhyphen"/>sician of Souls. All Power is given Him in Heaven and in Earth. By his Sacrifice, and Merits, and Intercession must we be pardoned and accepted with the Father; and only by him must we come to God. He hath procured and established a <hi>Covenant of Grace,</hi> which Baptism is the Seal of: Even [<hi>That God will in him be our God and re<g ref="char:EOLhyphen"/>conciled Father, and Christ will be our Saviour, and the Holy Ghost will be our Sanctifier, if we will unfeignedly consent that is, if penitently and believingly we give up our selves t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <pb n="8" facs="tcp:135190:6"/> God the Father, Son, and Holy Ghost, in those Resolutions.</hi>] This Covenant in the Tenor of it, is a Deed of Gift, of Christ, and Pardon, and Salvation to all the World: if by true Faith and Repentance they will turn to God. And this shall be the Law according to which he will judge all that hear it at the last; for he is made the Judg of All, and will raise all the dead, and will justify his Saints, and judg them unto endless Joy and Glory, and condemn the Unbelievers, impenitent and <note n="x" place="bottom">Luke 16.</note> ungodly, unto endless Misery. The Soul alone is judged at Death, and Body and Soul at the Resurrection. This Gospel the Apostles preached to the World; and that it might be effectual to Mens Salvation, the <note n="y" place="bottom">Acts 2. John 17. 23.</note> Holy Ghost was first given to inspire the Preachers of it, and enable them to speak in various Languages, and infallibly to agree in One, and to work many great and open Mira<g ref="char:EOLhyphen"/>cles to prove their Word to those they preached to: And by this means they <note n="z" place="bottom">Mat. 28. 9, 20. Act. 14 23. Act. 20. Act. 26. 17, 18.</note> planted the Church; which ordinary Ministers must increase, and teach, and over<g ref="char:EOLhyphen"/>see, to the end of the World, till all the Elect be gather<g ref="char:EOLhyphen"/>ed in. And the same <note n="a" place="bottom">Rom. 8. 9.</note> Holy Spirit hath undertaken it, as his Work, to accompany this Gospel, and by it to convert Mens Souls, illuminating and sanctifying them; and by a secret <note n="b" place="bottom">Tit. 3. 5. 6. Joh. 13. 5, 6.</note> Regeneration to renew their Na<g ref="char:EOLhyphen"/>tures, and bring them to that Knowledg, and Obedi<g ref="char:EOLhyphen"/>ence, and Love of God, which is the Primitive Holi<g ref="char:EOLhyphen"/>ness, for which we were created, and from which we fell. And thus by a Saviour and a Sanctifier must all be reconciled and renewed, that will be glorified with God in Heaven. All this you may learn from the Sa<g ref="char:EOLhyphen"/>cred Scriptures, which were <note n="c" place="bottom">2 Tim. 3. 16.</note> written by the Inspi<g ref="char:EOLhyphen"/>ration of the Holy Spirit, and sealed by multitudes of open <note n="d" place="bottom">Heb. 3, 4.</note> Miracles, and contain the very Image and Su<g ref="char:EOLhyphen"/>perscription of God, and have been received and pre<g ref="char:EOLhyphen"/>served
+<pb n="9" facs="tcp:135190:6"/> by the Church, as the certain Oracles of God, and blessed by him through all Generations, to the sanctify<g ref="char:EOLhyphen"/>ing of many Souls.</p>
+               <p n="9">IX. When you understand all this, it is time for you to <note n="e" place="bottom">2 Cor. 13. 5. Psal. 4. 4. 2 Pet. 1. 10.</note> look home, and understand now what State your Souls are in. That you were made capable of Holiness and Happiness, you know: that you and all Men are fallen from God, and Holiness, and Happiness, unto Self, and Sin, and Misery, you know: that you are so far redeemed by Christ, you know, as to have a par<g ref="char:EOLhyphen"/>doning and saving Covenant tendered you, and Christ and Mercy offered to your choice. But whether you are truly penitent Believers, and renewed by the Holy Ghost, and so united unto Christ, this is the Question yet unresolved; this is the Work that is yet to do, with<g ref="char:EOLhyphen"/>out which there is no Salvation; and if thou die before it is done, wo to thee that ever thou wast a Man. Ex<g ref="char:EOLhyphen"/>cept a Man be <note n="f" place="bottom">John 3. 5. 2 Cor. 5. 17. Rom. 8. 7. 9. Phil. 3. 18, 20.</note>
+                  <hi>Regenerate by the Spirit,</hi> and Con<g ref="char:EOLhyphen"/>verted, and made a <hi>New Creature,</hi> and of Carnal be made Spiritual, and of Earthly be made Heavenly, and of Selfish and Sinful be made Holy and Obedient to God, he can never be saved, no more than the Devil himself can be saved. And if this be so, (as nothing is more sure) I require thee now, who readest these words, as thou regardest thy Salvation, as thou wouldest escape Hell Fire, and stand with comfort before Christ and his Angels, at the last, that thou soberly consider whether Reason command thee not to try thy State, whether thou art thus <note n="g" place="bottom">Acts 16 14.</note> renewed by the Spirit of Christ or not? And to <note n="h" place="bottom">Acts 2. 37. &amp; 16. 30. &amp; 11. 23. 2 Cor. 6. 1, 2. Rev. 2. 7.</note> call for help to those that can advise thee, and follow on the search till thou know thy Case. And if thy Soul be a stranger to this sanctifying Work, whether Reason command thee not, without any delay, to make out to Christ, and beg his Spirit, and cast away thy Sins, and give up thy self en<g ref="char:EOLhyphen"/>tirely
+<pb n="10" facs="tcp:135190:7"/> to thy God, thy Saviour and Sanctifier, and enter into his Covenant, with a full Resolution never to for<g ref="char:EOLhyphen"/>sake him; to deny thy self, and the desires of the Flesh, and this deceitful transitory World, and lay out all thy hopes on Heaven, and speedily, whatever it cost thee, to make sure of the Felicity which hath no end? And darest thou refuse this when God and Conscience do command it? And further I advise you,</p>
+               <p n="10">X. Understand how it is that <hi>Satan hindereth Souls from being sanctified:</hi> That you may know how much to resist his Wiles. Some he deceiveth by <note n="i" place="bottom">Acts 24. 14. &amp; 28. 22. &amp; 24. 5, 6.</note> malici<g ref="char:EOLhyphen"/>ous Suggestions, that Holiness is nothing but Fancy or Hypocrisy! (And if <hi>God</hi> and <hi>Death,</hi> and <hi>Heaven,</hi> and <hi>Hell,</hi> were Fancies, this might be believed). Some he debau<g ref="char:EOLhyphen"/>cheth by the power of fleshly Appetite and Lust, so that their Sins will not let their Reason speak: Some he keepeth in utter Ignorance, by the evil Education of ignorant Parents, and the negligence of <note n="k" place="bottom">Mal. 2. 7, 9. Hos. 4. 9.</note> ungodly Soul-murdering Teachers: some he deceiveth by world<g ref="char:EOLhyphen"/>ly Hopes, and keepeth their Minds so taken up with worldly Things, that the Matters of Eternity can have but some loose and uneffectual Thoughts, or as bad as none: Some are entangled in <note n="l" place="bottom">Prov. 13. 20.</note> ill Company, who make a scorn of a holy Life, and feed them with con<g ref="char:EOLhyphen"/>tinual Diversions and vain Delights: And some are so <note n="m" place="bottom">Ephes. 4. 18, 19.</note> hardened in their Sin, that they are even past feel<g ref="char:EOLhyphen"/>ing, and neither fear God's Wrath, nor care for their Salvation, but hear these things as Men asleep, and no<g ref="char:EOLhyphen"/>thing will awake them: Some are discouraged with a conceit that Godliness is a Life so <note n="n" place="bottom">Mal. 1. 13.</note> grievous, sad, and melancholy, that rather than endure it, they will ven<g ref="char:EOLhyphen"/>ture their Souls, come on it what will; (as if it were a grievous Life to love God, and hope for endless Joys, and a pleasant Life to love the World and Sin, and live within a step of Hell!) Some that are convinced, do <note n="o" place="bottom">Mat. 25. 3, 8, 12. &amp; 24. 43, 44.</note>
+                  <pb n="11" facs="tcp:135190:7"/> put off their Conversion with delays, and think it's time enough hereafter; and are purposing and promi<g ref="char:EOLhyphen"/>sing till it be too late, and Life, and Time, and Hope be ended. And some that see there is a necessity of Ho<g ref="char:EOLhyphen"/>liness, are <note n="p" place="bottom">Joh. 8. 39, 42, 44. Rom. 3. 1, 2. Gal. 4. 29. Mat. 13. 19, 20, 21, 22. &amp; 15. 2, 3, 6. Gal. 1. 1.</note> cheated by some dead Opinion, or Names, or Shews and Images of Holiness; either because they <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>old a strict Opinion, or because they join with a Reli<g ref="char:EOLhyphen"/>gious Party, or because they are of that which they think is the true Church, or because they are baptized with Water, and observe the outward parts of Worship; and perhaps because they offer God a great deal of Lip-Service, and Lifeless Ceremony, which never savoured of a Holy Soul. Thus Deadness, Sensuality, Worldli<g ref="char:EOLhyphen"/>ness and Hypocrisy, do hinder Millions from Sanctifi<g ref="char:EOLhyphen"/>cation and Salvation.</p>
+               <p n="11">XI. If ever thou wouldest be saved, oppress not Rea<g ref="char:EOLhyphen"/>son by Sensuality or Diversions: But sometimes <note n="q" place="bottom">Psal 4. 4. Hag. 1. 5. Deut. 32. 7, 29.</note> re<g ref="char:EOLhyphen"/>tire for sober Consideration, distracted and sleepy Rea<g ref="char:EOLhyphen"/>son is unuseful: god and Cnscience have a great deal to say to thee: which in a crowd of Company and Bu<g ref="char:EOLhyphen"/>siness thou art not fit to hear. it is a <note n="r" place="bottom">Isa. 1. 3.</note> doleful case that a Man who hath a <hi>God,</hi> a <hi>Christ,</hi> a <hi>Soul,</hi> a <hi>Heaven,</hi> a <hi>Hell</hi> to think of, will allow them none but running Thoughts, and not once in a Week bestow one hour in Manlike serious <note n="s" place="bottom">Job 34. 27. Jer. 23. 20. Psal. 119. 59.</note> consideration of them! sure thou hast no greater things to mind. Resolve then sometimes to spend half an hour in the deepest thoughts of thy everlasting State.</p>
+               <p n="12">XII. Look <note n="t" place="bottom">2 Cor. 4. 8. Deut. 32. 29. 1 John 2. 17. 1 Cor. 7. 31. Luk. 12. 19, 20. Joh. 14. 1, 2. 1 Thess. 5. 13.</note> upon this World, and all its Pleasures, as a Man of Reason, who foreseeth the End, and not as a Beast, that liveth but by Sense or present Objects. Do I need to tell thee, Man, that <hi>thou must die?</hi> Cannot
+<pb n="12" facs="tcp:135190:8"/> Carcasses and Dust instruct thee to see the end of Earth<g ref="char:EOLhyphen"/>ly Glory, and all the Pleasures of the Flesh? Is it a Con<g ref="char:EOLhyphen"/>troversy, whether thy Flesh must shortly perish? and wilt thou yet provide for it before thy Soul? What a sad farewel must thou shortly take, of all that World<g ref="char:EOLhyphen"/>lings fell their Souls for! And O how quickly will thi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> be! Alas, Man, the Day is even at hand; a few days more, and thou art gone! and darest thou live unrea<g ref="char:EOLhyphen"/>dy, and part with Heaven for such a World as this?</p>
+               <p n="13">XIII. And then think soberly of the <note n="u" place="bottom">Luk. 12. 4. Eccl. 12. 7. 2 Pet. 3. 11. 2 Cor. 4. 18. Phil. 3. 18, 20.</note> Life to come What it is for a Soul to appear before the living God and be judged to endless Joy or Misery! If the Devi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> tempt thee to doubt of such a Life, remember that Nature, and Scripture, and the World's Consent, and his own Temptations are Witnesses against him. O Man, canst thou pass one day in Company, or alone in Busi<g ref="char:EOLhyphen"/>ness or in Idleness, without some sober thoughts of Everlastingness? Nothing more sheweth that the Hearts of Men are asleep or dead, than that the thoughts of<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> endless Joy or Pain, so near at hand, constrain them not to be Holy, and overcome not all the Temptations of the Flesh, as Toys and inconsiderable Things.</p>
+               <p n="14">XIV. Mark well what Mind most Men are of when they come to <note n="x" place="bottom">Numb. 23. 10. Mat. 25. 8 &amp; 7. 21, 22. Prov. 1. 28, 29.</note> die! Unless it be some desperate for<g ref="char:EOLhyphen"/>saken Wretch do they not all speak well of a Holy Life? and wish that their Lives had been spent in the most fervent Love of God, and <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>rictest Obedience to his Laws? Do they then speak well of Lust and Pleasures, and magnify the Wealth and Honours of the World? Had they not rather die as the most mortified Saints, than as careless, fleshly, worldly Sinners? And dost thou see and know this, and yet wilt thou not be in<g ref="char:EOLhyphen"/>structed, and be wise in time?</p>
+               <p n="15">XV. Think well what manner of Men these were,
+<pb facs="tcp:135190:8"/> whose <note n="y" place="bottom">Mat. 23. 29, 30, 31, 33. Heb. 11. 38. John 8. 39.</note> Names are now honoured for their Holi<g ref="char:EOLhyphen"/>ness! What manner of Life did St. <hi>Peter,</hi> and St. <hi>Paul,</hi> St. <hi>Cyprian,</hi> St. <hi>Augustine,</hi> and all other Saints and Mar<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>yrs live; Was it a Life of fleshly Sports and Pleasures? Did they deride or persecute a Holy Life? Were they <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ot more strictly Holy than any that thou knowest? And is he not self-condemned, that honoureth the Names of Saints, and will not imitate them?</p>
+               <p n="16">XVI. Think what the difference is between a Chri<g ref="char:EOLhyphen"/>stian and an <note n="z" place="bottom">Mat. 10. 15. Rom. 2. Acts 10. 34, 35.</note> Heathen. You are loth to be Heathens or Infidels: But do you think a Christian excelleth them but in Opinion? He that is not holier than they, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s worse, and shall suffer more than they.</p>
+               <p n="17">XVII. Think what the difference is between a <note n="a" place="bottom">Rom. 2. 28, 29. Matth. 25. 28. Luk. 19. 22. Acts 24. 15. Gal. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>4. 29.</note> godly Christian and an Ungodly. Do not all the Op<g ref="char:EOLhyphen"/>posers of Holiness among us, yet speak for the same God, and Christ, and Scripture; and profess the same Creed and Religion with those whom they oppose? And is not this Christ the Author of our Holiness, and this Scripture the Commander of it? Search and see, whether the difference be not this that the Godly are serious in their Profession, and the Ungodly are Hy<g ref="char:EOLhyphen"/>pocrites, who ha<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e and oppose the practice of the very things which themselves profess; whose Religion serv<g ref="char:EOLhyphen"/>eth but to condemn them, while their Lives are con<g ref="char:EOLhyphen"/>trary to their Tongues.</p>
+               <p n="18">XVIII. Understand what the Devil's Policy is, by rai<g ref="char:EOLhyphen"/>sing so many <note n="b" place="bottom">Eph. 4. 14. Acts 20. 30. 1 Cor. 11. 19. 2 Tim. 4. 3. &amp; 2. 14, 16. 1 Tim. 1. 5, 6. Tit. 3. 9. Ephes. 4 3 &amp;c. 1 Cor. 12. Mat. 12. 25. Rom. 2. 12, 27, 28, 29.</note> Sects, and Factions, and Controver<g ref="char:EOLhyphen"/>sies about Religion in the World: Even to make some think that they are Religious, because they can prate for their Opinions, or because they think their Party is the best, because their Faction is the Greatest, or the
+<pb n="14" facs="tcp:135190:9"/> Least; the Uppermost, or the suffering Side. And to turn holy edifying Conference into vain Jangling; and to make Men Atheists, suspecting all Religion, and true to none; because of Mens diversity of Minds. But re<g ref="char:EOLhyphen"/>member that Christian Religion is but One; and a thing easily known by its ancient Rule; and the uni<g ref="char:EOLhyphen"/>versal Church, containing all Christians, is but one. And if carnal Interest or Opinions so distract Men, that one Party saith, We are all the Church; and another saith, It is We, (as if the Kitchin were all the House, or one Town or Village all the Kingdom); Wilt thou be mad with seeing this Distraction? Hearken, Sinner, all these Sects in the Day of Judgment shall concur as Witnesses against thee, if thou be U<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>holy; because however else they differed, <note n="c" place="bottom">Gal. 1, 7, 8. Mat. 28. 20.</note> all of them that are Christians, professed the Necessity of Holiness, and sub<g ref="char:EOLhyphen"/>scribed to that Scripture which requireth it. Though thou canst not easily resolve every Controversy, thou mayst easily know the true Religion; it is that which Christ and his Apostles taught, which all Christians▪ have professed, which Scripture requireth; which is first <note n="d" place="bottom">James 3. 17.</note> pure, and then peaceable; most Spiritual, Heavenly, Charitable, and Just.</p>
+               <p n="19">XIX. Away from that <note n="e" place="bottom">Eph. 5. 11. Prov. 23. 20. 2 Cor. 6. 17, 18. Psal. 15. 4. Deut. 13. 3.</note> Company which is sensual, and an Enemy to Reason, Sobriety, and Holiness; and consequently to God, themselves, and thee. Can they be wise for thee, that are foolish for themselves? or Friends to thee, that are undoing themselves? or have any pity on thy Soul, when they make a Jest of their own Damnation? Will they help thee to Heaven, who are running so furiously to Hell? chuse better Familiars, if thou wouldest be better.</p>
+               <p n="20">XX. <hi>Judg not of a holy Life by hearsay,</hi> for it cannot▪ so be known. <note n="f" place="bottom">John 5. 40. Luke 14. 29, 30. John 6. 35, 37, 45.</note> Try it a while, and then judg as
+<pb n="15" facs="tcp:135190:9"/> thou findest it. Speak not against the things thou know<g ref="char:EOLhyphen"/>st not. Hadst thou but lived in the Love of God, and he lively belief of endless Glory, and the Delights of Holiness, and the Fears of Hell 'but for one Month or Day; and with such a Heart, hadst <note n="g" place="bottom">Isa. 55. 6, 7.</note> cast away thy <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>in, and called upon God, and ordered thy Family in <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> holy manner, especially on the Lord's Day; I dare <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oldly say, Experience would constrain thee to <note n="h" place="bottom">Mat. 11. 19.</note>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ustifie a holy Life. But yet I must tell thee, it is not <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rue Holiness, if thou do but try it with <note n="i" place="bottom">Luke 14. 33.</note> Excep<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ons and Reserves: If therefore God hath convinced <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hee that this is his Will and Way, I adjure thee, as in his dreadful Presence, that thou <note n="k" place="bottom">Rev. 22. 17. John 1. 12. Rev. 2. &amp; 3. 1 John 5. 12, 13. Psal. 34. 7. Psal. 73. 26. Mat. 25. Luke 20. 39. H<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>b. 2. 3. 1 Thess. 2. 12.</note>
+                  <hi>delay no longer,</hi> but <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>esolve, and absolutely give up thy self to God as thy Heavenly Father, thy Saviour, and thy Sanctifier, and <hi>make an everlasting Covenant with him,</hi> and then he and all his Mercies will be thine; his Grace wil help thee, and his Mercy pardon thee; his Ministers will instruct thee, and his People pray for thee, and assist thee; his Angels will guard thee, and his Spirit comfort thee: and when Flesh must fail, and thou must leave this World, thy Saviour will then receive thy Soul, and bring <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t into the participation of his Glory; and he will raise thy Body, and justify thee before the World, and make thee equal to the Angels; and thou shalt live in the Sight and Love of God, and in the Everlasting Pleasures of his Glory: This is the end of Faith and Holiness. But if thou harden thy Heart, and refusest Mercy, <note n="l" place="bottom">Luke 19. 27. Prov. 29. 1. &amp; 1. 25.</note> everlasting Wo will be thy Portion, and then there will be no Remedy.</p>
+               <p>And now, Reader, I beg of thee, and I beg of God on my bended knees, that these few words may sink into thy Heart, and that thou wouldest read them over and over again, and bethink thee as a Man that must
+<pb facs="tcp:135190:10"/> shortly die, Whether any deserve thy Love and Obe<g ref="char:EOLhyphen"/>dience more than God? and thy thankful Remembrance more than Christ, and thy Care and Diligence more than thy Salvation? Is there any Felicity more desira<g ref="char:EOLhyphen"/>ble than Heaven? or any Misery more terrible than Hel<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>? or any thing so regardable as that which is Ever<g ref="char:EOLhyphen"/>lasting? Will a few days fleshly Pleasures pay for the loss of Heaven and thy immortal Soul? or will thy Si<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and thy Prosperity be sweet at Death, and in the Day of Judgment? As thou art a Man, and as ever thou believest that there is a God, and a World to come, and as thou carest for thy Soul whether it be saved or dam<g ref="char:EOLhyphen"/>ned, I beseech thee, I charge thee, think of these things! think of them once a day at least! think of them with thy most sober serious thoughts! Heaven is not a May<g ref="char:EOLhyphen"/>game, and Hell is not a Flea-biting! Make not a jest of Salvation or Damnation! I know thou livest in a di<g ref="char:EOLhyphen"/>stracted World, where thou mayest hear some laughing at such things as these, and scorning at a holy Life, and fastning odious Reproaches on the Godly, and merrily drinking, and playing, and prating away their Time, and then sa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ing, that they will trust God with their Souls, and hope to be saved without so much ado! But if all these Men do not change their Minds, and be not shortly down in the Mouth, and would not be glad to eat their Words, and wish that they had lived a holy Life, though it had cost them scorn and suffering in the World, let me bear the shame of a Deceiver for ever: But if God and thy Conscience bear witness against thy Sin, and tell thee that a holy Life is best, regard not the gain-sayings of a Bedlam World, which is drunk with the Delusions of the Flesh: But <hi>give up thy Soul and Life to God by Jesus Christ in a faithful Covenant!</hi> Delay no longer, Man, but resolve; <hi>Resolve immediately, resolve unchangeably; And God will be thine, and thou shalt be his for ever.</hi> Amen. Lord have Mercy on this Sinner, and so let it be resolved by thee in him.</p>
+            </div>
+            <div type="part">
+               <pb n="17" facs="tcp:135190:10"/>
+               <head>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>I. <hi>The Parts and Practice of a Holy Life, for Personal and Family Instructions.</hi>
+               </head>
+               <p>ALL is not <note n="a" place="bottom">Col. 1. 23. Heb. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. 1. 2 Pe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 2. 20. 1 Cor. 3. Gal. 3 &amp; 4. Mat. 13. 41. &amp; 18. 7.</note> done when Men have begun a Reli<g ref="char:EOLhyphen"/>gious Life: All Trees that blossom prove not <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ruitful; and all Fruit comes not to perfection. Many fall off, who seemed to have good Beginnings: And many dishonour the Name of Christ, by their Scandals and Infirmities: Many do grieve their Teachers Hearts, and lamentably disturb the Church of Christ, by their Ignorance, Errors, Self-conceitedness, Unruliness, Headi<g ref="char:EOLhyphen"/>ness, Contentiousness, Sidings, and Divisions: Insomuch that the <note n="b" place="bottom">Phil. 3. 18, 19. Acts 20. 30</note> Scandals and the Feuds of Christians are the great Impediments of the Conversion of the Infidel and Heathen World, by the exposing Christianity to their contempt and scorn, as if it were but the Error of Men, as unholy and worldly, and proud as others, that can never agree among themselves: And many by their Passions and Selfishness are a trouble to the Families and Neighbours where they live: And more by their Weaknesses and great Distempers, are S<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ares, Vexa<g ref="char:EOLhyphen"/>tions, and Burdens to themselves. Whereas Christia<g ref="char:EOLhyphen"/>nity in its true Constitution, is a Life of such holy <note n="c" place="bottom">Mat. 5. 16. 1 Pet. 3. 1. 1 Pet. 2. 15. &amp; 1. 8. 2 Cor. 1. 12.</note> Light and Love, such Purity and Peace, such Fruitfulness and Heavenliness, as if it were accordingly shewed forth in the Lives of Christians, would command Admiration and Reverence from the World, and do more to their Conversion, than Swords or Words alone can do: And it would make Christians useful and amiable to each other: And their Lives a Feast and Pleasure to them<g ref="char:EOLhyphen"/>selves. I hope it may prove some help to these excel<g ref="char:EOLhyphen"/>lent Ends, and to the securing Mens Salvation, if in a few sound experienced Directions I open to you the Duties of a Christian Life.</p>
+               <p n="1">
+                  <pb n="18" facs="tcp:135190:11"/>I. <hi>Keep still the true</hi>
+                  <note n="d" place="bottom">2 Tim. 1. 13. &amp; 3. 7. Heb. 5. 12. Phil. 1. 9. Rom. 15. 14.</note>
+                  <hi>Form of Christian Doctrine, D<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ire and Duty, orderly printed on your Minds:</hi> That is, Un<g ref="char:EOLhyphen"/>derstand it clearly and distinctly, and remember it, mean the great Points of Religion contained in Cate<g ref="char:EOLhyphen"/>chisms. You may still grow in the clearer understand<g ref="char:EOLhyphen"/>ing of your Catechisms, if you live an hundred Years Let not the Words only, but the Matter, be as familia<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> in your Minds, as the Rooms of your House are. Such <note n="e" place="bottom">Eph. 4. 13, 14. Col. 1. 9. &amp; 2. 2. &amp; 3. 10. 1 Tim. 6. 4.</note> solid Knowledge will establish you against Seductio<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and Unbelief, and will be still within you a ready help for every Grace, and every Duty; as the skill of an Ar<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> tificer is for his Work: And for want of this, when yo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> come among Infidels or Hereticks, their Reasoning may seem unanswerable to you, and shake, if not over throw your Faith; And you will easily err in lesse<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Points, and trouble the Church with your Dreams and Wranglings. This is the Calamity of many Professors that while they will be most censorious Judges in every Controversy about Church-matters, they know no<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> well the Doctrine of the Catechism.</p>
+               <p n="2">II. <hi>Live daily by Faith on</hi>
+                  <note n="f" place="bottom">Joh. 17. 3. Ephes. 3. 17, 18. Mat. 28. 19. Ephes. 1. 22, 23. &amp; 4. 6, 16. Rom. 5. 2 Cor. 12. 9. Joh. 16. 33. 1 John 5. 4. Heb. 4. 14, 16. Col. 3. 3, 4. Act. 7. 59.</note>
+                  <hi>Jesus Christ, as the Media<g ref="char:EOLhyphen"/>tor between God and you.</hi> Being well-grounded in the Belief of the Gospel, and understanding Christ's Office, make use of him still in all your Wants. Think on the Fatherly Love of God, as coming to you through him alone: and of the Spirit, as given by him your Head, and of the Covenant of Grace as enacted and sealed by him; and of the Ministry as sent by him; and of all times, and helps, and hopes as procured and given by him. When you think of Sin, and Infirmity, and Temptations, think also of his sufficient, pardoning, justifying and victorious Grace. When thou thinkest of the World, the Flesh, and the Devil, think how he
+<pb n="19" facs="tcp:135190:11"/> overcometh them. Let his Doctrine, and the Pattern of his most perfect Life, be always before you as your Rule. In all your Doubts, and Fears, and Wants, go to him in the Spirit, and to the Father by him, and him alone. Take him as the Root of your Life and Mercies, and live as upon him and by his Life; and when you die, resign your Souls to him, that they may <hi>be with <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> where he is, and see his Glory.</hi> To live on Christ and use him in every Want, and address to God, is more than a general confused believing in him.</p>
+               <p n="3">III. <hi>So believe in the Holy Ghost, as to</hi>
+                  <note n="g" place="bottom">Gal. 5. 16, 25.</note>
+                  <hi>live and work by him, as the Body doth by the Soul.</hi> You are not <note n="h" place="bottom">Mat. 28. 19.</note> baptized into his Name in vain; (but too few understand the Sense and Reason of it). The Spirit is sent by Christ for two great Works. 1. To the Apostles, and Prophets, to <note n="i" place="bottom">Joh. 16. 13 Heb. 2. 34.</note> inspire them infallibly to preach the Gospel, and con<g ref="char:EOLhyphen"/>firm it by Miracles, and leave it on Record for follow<g ref="char:EOLhyphen"/>ing Ages, in the Holy Scriptures. 2. To all his <note n="k" place="bottom">1 Cor. 12. 12, 13. Rom. 8. 9, 13. Joh. 3. 5, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </note> Members, to illuminate and sanctify them, to believe and obey this Sacred Doctrine (beside his common Gift to many to understand and preach it). The Spirit ha<g ref="char:EOLhyphen"/>ving first indicted the Gospel, doth by it first regenerate, and after govern all true Believers. He is not now given us for the revealing of new Doctrines, but to under<g ref="char:EOLhyphen"/>stand and obey the <note n="l" place="bottom">2 Tim. 3. 15, 16. Jude 19. 20.</note> Doctrine revealed and sealed by him long ago. As the Sun doth by its sweet and secret Influence, both give and cherish the natural life of things Sensitive and Vegetative; so doth Christ by his <note n="m" place="bottom">Ezek. 36. 27. Is<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 44. 3. Rom. 8. 1, 5. 1 Cor. 6. 11. Zech. 14. 20.</note> Spi<g ref="char:EOLhyphen"/>rit our spiritual Life. As you do no Work but by your natural Life, you should do none but by your spiritual Life: You must not only Believe, and Love, and Pray by it, but manage all your Calling by it; for <hi>Holiness to the Lord</hi> must be written upon all: All things are sanctified to you, because you being sanctified to God, devot<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <pb n="20" facs="tcp:135190:12"/> all to him, and use all for him; and therefore must d<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> all in the strength and conduct of the Spirit.</p>
+               <p n="4">IV <note n="n" place="bottom">1 Cor. 10. 31. Rom. 11. 36. 2 Cor. 57, 8. 1 John 3. 1. Rom. 5. 1, 2, 3. Mat. 22. 37. Ephes 1. 6. 2 Cor. 5. 19. Gal. 4. 4, 5, 6.</note>
+                  <hi>Live wholly upon God, as All in All: As the first Efficient, principal Dirigent, and final Cause of a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> things.</hi> Let Faith, Hope, and Love, be daily feeding o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> him. Let, <hi>Our Father which art in Heaven,</hi> be first in<g ref="char:EOLhyphen"/>scribed on your Hearts, that h<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> may seem most amiable to you, and you may boldly trust him, and <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ilial Love may be the spring of Duty. Make use of the Son and Spirit to lead you to the Father; and of Faith in Christ to kindle and keep alive the Love of God. God's Love is our Primitive Holiness, and especially called, with its Fruits, [<hi>Our Sanctification,</hi>] which <hi>Faith in Christ</hi> is but a Means to. Let it be your principal End▪ in studying Christ, to see the Goodness, Love, and Amiableness of God in him: A condemning God is not so easily loved, as a gracious reconciled God. You have so much of the Spirit, as you have Love to God: This is the proper Gift of the Spirit to all the adopted Sons of God, to cause them, with filial Affection and Dependance, to cry, <hi>Abba, Father.</hi> Know not, desire not, love not any Creature, but purely as subordinate to God! Without him, let it be nothing to you, but as the Glass without the Face, or scatte<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed Letters without the Sense; or as the Corps without the Soul. <note n="o" place="bottom">Psal. 30. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. &amp; 6<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. 3.</note> Call nothing Prospe<g ref="char:EOLhyphen"/>rity or Pleasure, but his Love; and nothing Adversity or Misery, but his Displeasure, and the Cause and the Fruits of it. When any thing would seem lovely and desirable which is against him, call it <note n="p" place="bottom">Phil. 37, 8.</note>
+                  <hi>Dung!</hi> And hear that Man, as <note n="q" place="bottom">Mat. 16. 23.</note> 'a an, or the Serpent, that would entice you from him; and count him but Vanity, a Worm, and D<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>st, that would affright you from your Duty to him. Fear him much, but love him more! Let <note n="r" place="bottom">2 Thess. 3. 5<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 2 Cor. 13. 14.</note> Lo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e be the Soul and End of every other Duty:
+<pb n="21" facs="tcp:135190:12"/> It is the End and Reason of all the rest; but it hath no End or Reason, but its Object. Think of no other Heaven, and End, and Happiness of Man, but Love the final Act, and God the final Object: Place not your Religion in any thing but the Love of God, with its Means and Fruits. Own no Grief, Desire, or Joy, but a mourning, a seeking, and a rejoycing Love.</p>
+               <p n="5">V. <hi>Live in the belief and hopes of Heaven, and</hi>
+                  <note n="s" place="bottom">Col. 3. 1, 2, 4. Mat. 6. 19, 20, 21, 33. 2 Cor. 4 17, 18. &amp; 7. Luk. 12. 20. Heb. 6. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>0. 1 Cor. 15. 28. Ephes. 4. 6. &amp; 1. 23. Phil. 3. 18. 20. Psal. 73. 25. 26. Joh. 18. 36.</note>
+                  <hi>seek it as your Part and End; and daily delight your Souls in the fore-thoughts of the endless Sight and Love of God.</hi> As God is seen on Earth but as in a Glass, so is he proportiona<g ref="char:EOLhyphen"/>bly enjoyed. But when mourning, seeking Love hath done, and Sin and Enemies are overcome, and we be<g ref="char:EOLhyphen"/>hold the Glory of God in Heaven, the Delights of Love will then be perfect. You may desire more on Earth than you may hope for. Look not for a Kingdom of this World, nor for Mount <hi>Zion</hi> in the Wilderness. Christ reigneth on Earth, as <hi>Moses</hi> in the Camp, to guide us to the Land of the Promise: Our perfect Blessedness will be, where the Kingdom is delivered up to the Fa<g ref="char:EOLhyphen"/>ther, and God is <hi>All in All.</hi> A Doubt, or a strange heartless thought of Heaven, is Water cast on the Sa<g ref="char:EOLhyphen"/>cred Fire, to quench your Holiness and your Joy. Can you travel one whole day to such an End, and never think of the Place that you are going to? which must be intended in every Righteous Act, (either notedly, or by the ready unobserved Act of a potent Habit). When Earth is at the best, it will not be Heaven. You live no further by Faith, like Christians, than you ei<g ref="char:EOLhyphen"/>ther live for Heaven in seeking it, or else upon Heaven in Hope and Joy.</p>
+               <p n="6">VI. <hi>Labour to make Religion your Pleasure and</hi>
+                  <note n="t" place="bottom">Psal. 1. 2, 3. &amp; 84. 2, 10. &amp; 63. 3, 5. &amp; 37 4. &amp; 91. 19. &amp; 119. 47, 70. Isa. 58. 14. Psal. 112. 1. Rom. 14 17. &amp; 5. 1, 3, 5. 1 Pet. 1. 8. Mat. 5. 11, 12. Psal. 32. 11.</note>
+                  <hi>De<g ref="char:EOLhyphen"/>light.</hi>
+                  <pb n="22" facs="tcp:135190:13"/> Look oft to God, to Heaven, to Christ, to the Spirit, to the Promises, to all your Mercies. Call over your Experiences, and think what matter of high De<g ref="char:EOLhyphen"/>light is still before you, and how unseemly it is, and how injurious to your Profession, for one that saith he hopeth for Heaven, to live as sadly as those that have no higher hopes than Earth. How should that Man be filled with Joy, who must live in the Joys of Heaven for ever? Especially rejoyce when the Messengers of Death do tell you, that your endless Joy is near. If God, and Heaven, with all our Mercies in the way, be not reason enough for a joyful Life, there can be none at all. Abhor all Suggestions which would make Re<g ref="char:EOLhyphen"/>ligion seem a te<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ious irksome Life. And take heed that you represent it not so to others; for you will never make them in love with that which you make them not perceive to be delectable and lovely. Not as the Hypo<g ref="char:EOLhyphen"/>cri<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e, by forcing and framing his Religion to his carnal Mind and Pleasure; but bringing up the Heart to a holy suitableness to the pleasures of Religion.</p>
+               <p n="7">VII. <hi>Watch as for your Souls, against this flattering tempting</hi>
+                  <note n="u" place="bottom">Gal. 6. 14. 1 Joh. 2. 15, 16. Jam. 1. 27. &amp; 4. 4, 5. 1 Joh. 5. 4, 5. Rom. 12. 2. Gal. 1. 4. Tit. 2. 12. Mat. 19. 24. Luk. 12. 16. 21. &amp; 16. 25. James 1. 11. &amp; 5. 1, 2, 4. Luke <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. 14. Heb. 11. 26.</note>
+                  <hi>World; especially when it is represented as more sweet and delectable, than God, and Holiness, and Hea<g ref="char:EOLhyphen"/>ven.</hi> This World with its Pleasures, Wealth, and Ho<g ref="char:EOLhyphen"/>nours, is it that is put in the Ballance by Satan, against God, and Holiness, and Heaven: And no Man shall have better than he chooseth and preferreth. The Bait taketh advantage of the brutish part, when Reason is asleep; and if by the help of Sense it get the Throne, the Beast will ride and rule the Man; and Reason become a <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lave to Sensuality. When you hear the Serpent, see his Sting, and see Death attending the forbidden Fruit<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> When you are rising, look down and see how far you have to fall! His Reason, as well as Faith, is weak, who
+<pb n="23" facs="tcp:135190:13"/> for such Fools-gawds, as the Pomp and Vanities of this World, can forget God and his Soul, and Death, and Judgment, Heaven and Hell, yea and deliberately com<g ref="char:EOLhyphen"/>mand them to stand by. What Knowledge or Expe<g ref="char:EOLhyphen"/>rience can do good on that Man, who will venture so much for such a World, which all, that have tried it, call vanity at the last? How deplorable then is a World<g ref="char:EOLhyphen"/>ling's case? O fear the World when it smileth, or seems sweet and amiable. Love it not, if you love your God and your Salvation.</p>
+               <p n="8">VIII. <hi>Fly from Temptations, and crucify the</hi>
+                  <note n="x" place="bottom">Rom. 8. 1, 13. Gal. 5. 24. Rom. 13. 14. Gal. 5. 17. Jude 8. 23. 2 Pet. 2. 10. Ephes. 2. 3. 1 Pet. 2. 11. Mat. 6. 13. &amp; 26. 41. Luke 8. 13.</note>
+                  <hi>Flesh, and keep a constant Government over your Appetite and Sen<g ref="char:EOLhyphen"/>ses.</hi> Many, who had no designed stated Vice, or worldly Interest, have shamefully fallen by the sudden surprize of Appetite or Lust. When custom hath taught these to be greedy and violent, like a hungry Dog, or a lusting Bear, it is not a sluggish Wish or Purpose, that will mortify or rule them! How dangerous a case is that Man in, who hath so greedy a Beast continually to re<g ref="char:EOLhyphen"/>strain? that if he do but neglect his Watch one Hour, is ready to run him headlong into Hell? Who can be safe that standeth long on so terrible a precipice? The Tears and Sorrows of many Years, may perhaps not re<g ref="char:EOLhyphen"/>pair the loss which one Hour or Act may bring. The case of <hi>David,</hi> and many others, are dreadful Warnings. Know what it is that you are most in Danger of; whe<g ref="char:EOLhyphen"/>ther Lust and Idleness, or Excess in Meats, or Drinks, or Play; and there set your strongest Watch for your Pre<g ref="char:EOLhyphen"/>servation. Make it your daily Business to mortify that Lust, and scorn that your brutish Sense or Appetite should conquer Reason. Yet trust not purposes alone; but away from the Temptation; Touch not, yea, look not on the tempting Bait: keep far enough off, if you desire to be safe. What Miseries come from small be<g ref="char:EOLhyphen"/>ginnings. Temptation leads to Sin, and small Sins to
+<pb n="24" facs="tcp:135190:14"/> greater, and those to Hell! And Sin and Hell are no<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> to be played with! Open your Sin or Temptation to some Friend, that shame may save you from Danger.</p>
+               <p n="9">IX. <hi>Keep up a constant skilful Government over your</hi>
+                  <note n="y" place="bottom">Jam. 1. 19. &amp; 3. 13, 17. 1 Pet. 3. 4. Mat. 5. 5. Ephes. 4. 2, 3. Col. 3. 12.</note>
+                  <hi>Passions and your Tongues.</hi> To this end, keep a tende<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Conscience, which will smart when in any of these you sin. Let Holy Passions be well ordered, and selfish car<g ref="char:EOLhyphen"/>nal Passions be restrained. Let your <note n="z" place="bottom">Jam. 1. 26. &amp; 3. 5, 6. Psal. 34. 13. Prov. 18. 21.</note> Tongues know their Duties to God and Man, and labour to be skilful and resolute in performing them. Know all the Sins of the Tongue, that you may avoid them; for your Innocency and Peace do much depend on the prudent Government of your Tongues.</p>
+               <p n="10">X. <hi>Govern your</hi>
+                  <note n="a" place="bottom">Deut. 15. 9. 2 Cor. 10. 5. Gen. 6. 5. Psal. 10, 4. &amp; 94. 19. &amp; 119. 113. Prov. 12. 5. &amp; 15. 26. Psal. 119. 59. Prov. 30. 32. Jer. 4. 14. Deut. 32. 29.</note>
+                  <hi>Thoughts with constant skilful Dili<g ref="char:EOLhyphen"/>gence.</hi> In this, right Habits and Affections will do most, by enclining them unto Good. It's easy to think on that which we love. Be not unfurnished of matter for your Thoughts to work upon: And often retire your selves for serious Meditation. Be not so solitary and deep in Musings, as to over-stretch your Thoughts and confound your Minds, or take you off from necessary converse with others! But be sure that you be Conside<g ref="char:EOLhyphen"/>rate, and dwell much at Home, and converse most with your Consciences and your God! with whom you have the greatest Business! Leave not your thoughts unimployed, or ungoverned: Scatter them not abroad upon impertinent Vanities. O that you knew what daily Business you have for them! Most men are wick<g ref="char:EOLhyphen"/>ed, deceived, and undone, because they are inconside<g ref="char:EOLhyphen"/>rate, and dare not, or will not, retiredly and soberly use their Reason; or use it but as a slave in Chains, in the service of their Passion, Lust and Interest. He was never Wise, or Good, or Happy, who was not soberly
+<pb facs="tcp:135190:14"/> and impartially Considerate. How to be Good, to do Good, and finally enjoy Good, must be the sum of all our Thoughts. Keep them first holy, then charita<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>le, clean and chaste. And quickly check them when <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hey look towards sin.</p>
+               <p n="11">XI. <hi>Let</hi>
+                  <note n="b" place="bottom">Ephes. 5. 16. Joh. 14. 1, 2. Act. 17. 21. 1 Cor. 7. 29. 2 Cor. 6. 2. John 9. 4 Luke 19. 42, 44. Psal. 39. 4. Matth. 25. 10, 12.</note>
+                  <hi>Time be exceeding Precious in your Eyes, and <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>arefully and diligently redeem it.</hi> What haste doth it <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ake? and how quickly will it be gone? and then how <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ighly will it be valued, when a Minute of it can never <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e recalled? O what important Business have we, for <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>very Moment of our Time, if we should live a thou<g ref="char:EOLhyphen"/>sand Years! Take not that Man to be well in his Wits, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r to know his God, his End his Work, or his Danger, who hath Time to spare. Redeem it, not only from <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eedless Sports, and Plays, and Idleness, and Curiosity, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd Complement, and excess of Sleep, and Chat, and Worldliness; but also from the Entanglements of lesser Good, which would hinder you from greater. Spend <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ime as Men that are ready to pass into another World, where every Minute must be accounted for; and it must to with us for ever as we lived here. Let not Health <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eceive you into the expectation of living long, and so <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nto a sensless Negligence. See your Glass running, and <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eep a reckoning of the expence of Time: and spend it <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ust as you would review it when it is gone.</p>
+               <p n="12">XII. <hi>Let the</hi>
+                  <note n="c" place="bottom">1 Tim. 1. 5, 6. Mat. 19. 19. Rom. 13. 10. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> John 1. 16. Ephes. 4. 2, 15, 16. Col. 2. 2. &amp; 1. 4. 1 Tim. 6. 11. Jam. 3. 17. Phil. 2. 1, 2. 1 Thess. 4. 9. John 13. 35. Mat. 5. 44, 45. 1 Cor. 13. Jam. 4. 11. Gal. 6. 10. Tit. 2. 14. Phil. 2. 20, 21. Rom. 15. 1, 3.</note>
+                  <hi>Love of all intheir several Capacities, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ecome as it were your very Nature: and doing them all the Good you can, be very much of the Business of your Lives.</hi> God must be loved in all his Creatures, his natural <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mage on all Men, and his spiritual Image on his Saints. Our Neighbour must be loved as our natural selves:
+<pb facs="tcp:135190:15"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="27" facs="tcp:135190:15"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb facs="tcp:135190:16"/> That is, our natural Neighbour as our natural Self, with a Love of benevolence; and our spiritual Neigh<g ref="char:EOLhyphen"/>bour as our spiritual Self, with a Love of Complacence. In opposition to Complacence, we may hate our sinful Neighbour, as we must our selves (much more): But in opposition to Benev<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lence we must neither hate our Selves, our Neighbour, or our Enemy. O that Men knew how much of Christianity doth consist in Love, and doing Good! With what Eyes do they read the Gospel, who see not this in every Page? Abhor all that Selfishness, Pride and Passion which are the Enemies of Love; and those Opinions, and Factions, and Censurings, and Back-biting, which would destroy it. Take him that speaketh Evil of another to yo, without a just cause and call, to be Satan's Messenger, intreating you to hate your Brother, or to abate your Love. For to perswade you that a Man is bad, is directly to perswade you so far to hate him. not that the good and bad must be con<g ref="char:EOLhyphen"/>founded: but Love will call none bad without con<g ref="char:EOLhyphen"/>straining evidence. Rebuke Back-biters. Hurt no Man, and speak evil of no Man; unless it be not only just, but necessary to some greater Good. Love is lovely: They that Love shall be Beloved. Hating and hurting makes Men hateful. <hi>Love thy Neighbour as thy self;</hi> and, <hi>Do as thou wouldst be done by,</hi> are the Golden Rules of our Duty to Men; which must be deeply written on your Hearts. For want of this, there is nothing so false, so bad, so cruel, which you may not be drawn to think, or say, or do against your Brethren. Selfishness and want of Love, do as naturally tend to Ambition and Covetousness, and thence to Cruelty against all that stand in the Way of their Desires, as the nature of a Wolf to kill the Lambs. All Factions, and conten<g ref="char:EOLhyphen"/>tions, and Persecutions in the World, proceed from Selfishness and want of Charity. Devouring Malice is the Devilish Nature. Be as zealous in doing good to all, as Satan's Servants are in hurting. Take it as the use of all your Talents, and use them as you would hear of
+<pb n="27" facs="tcp:135190:16"/> it at last. Let it be your Business, and not a matter on the by: Especially for publick Good, and Mens Salva<g ref="char:EOLhyphen"/>tion. And what you cannot do your selves, perswade others to. Give them good Books: and draw them to the means, which are most like to profit them.</p>
+               <p n="13">XIII. <hi>Understand the right Terms of Church-Communion: especially the Unity of the Universal Church, and the Uni<g ref="char:EOLhyphen"/>versal Communion, which you must hold with all the parts;</hi> and the <hi>difference between the Church as Visible and Invi<g ref="char:EOLhyphen"/>sible.</hi> For want of these, how woful are our divisions? Read oft, <hi>1 Cor. 12. &amp; Eph. 4. 1. to 17. Joh. 17. 21, 22, 23. Acts 4. 32. &amp; 2. 42. 1 Cor. 1. 10, 11, 13. &amp; 3. 3. Rom. 16. 17. Phil. 2. 1, 2, 3, 4. 1 Thess. 5. 12, 13. Acts 20. 30. 1 Cor. 11. 19. Titus 3. 10. James 3. Col. 1. 4. Heb. 10. 25. Acts 8. 12, 13, 37. 1 Cor. 1. 2, 13. &amp; 3. 3, 4. &amp; 11. 18, 21.</hi> Study these well. You must have Union and Communion in Faith and Love, with all the Chri<g ref="char:EOLhyphen"/>stians in the World. And refuse not <hi>local Communion</hi> when you have a just call, so far as they put you not on sinning. Let your usual meeting be with the purest Church, if you lawfully may, (and still respect the pub<g ref="char:EOLhyphen"/>lick Good); But sometimes occasionally communicate even with defective faulty Churches, so be it they are true Christians, and put you not on Sin: that so you may shew that you own them as Christians, though you disown their Corruptions. Think not your pre<g ref="char:EOLhyphen"/>sence maketh all the Faults of Ministry, Worship, or People to be yours (for then I would joyn with no Church in the World). Know that as the mystical Church consisteth of Heart-Covenanters, so doth the Church as Visible consist of Verbal-Covenanters, which make a credible profession of Consent: And that Na<g ref="char:EOLhyphen"/>ture and Scripture teacheth us to take every Man's word as Credible till Perfidiousness forfeit his Credit; which forfeiture must be proved, before any sober Profession can be taken for an insufficient title. <note n="d" place="bottom">Mat. 13. 29, 41.</note> Grudge not then at the Communion of any Professed Christian in
+<pb n="28" facs="tcp:135190:17"/> the Church Visible: (though we must do our part to cast out the obstinately impenitent by Discipline; which it we cannot do, the Fault is not ours). The presence of Hypocrites is no hurt, but oft a Mercy to the Sincere. How small else would the Church seem in the World? Outward Privileges belong to Outward-Covenanters; and Inward Mercies to the Sincere. <note n="e" place="bottom">John 16. 2. 1 Cor. 1. 10. Rom. 16. 17. Jam. 3. 14, 15, 16, 17, 18.</note> Division is wounding, and tends to Death. Abhor it as you love the Churches welfare or your own: The Wisdom from above is first pure, and then peaceable. Never sepa<g ref="char:EOLhyphen"/>rate what God conjoineth. It is the earthly, sensual, devilish Wisdom, which causeth bitter, envying, and strife, and confusion, and every evil Work. Blessed are the Peace makers.</p>
+               <p n="14">XIV. <hi>Take <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eed of</hi>
+                  <note n="f" place="bottom">1 Tim. 3. 6. Col. 2. 18. 1 Cor. 8. 1. 1 Cor. 4. 6. 1 Tim. 6. 4. 1 Pet. 5. 5. Jam. 3. 1, 17.</note>
+                  <hi>Pride and Self-conceitedness in Religion:</hi> If once you over-value your own under<g ref="char:EOLhyphen"/>standings, your crude Conceptions and gross Mistakes will delight you as some supernatural light: And in<g ref="char:EOLhyphen"/>stead of having compassion on the Weak, you will be unruly and despisers of your Guides, and censorious contemners of all that differ from you; and persecu<g ref="char:EOLhyphen"/>tors of them if you have Power; and will think all intolerable, that take you not as Oracles, and your words as Law. Forget not that the Church hath al<g ref="char:EOLhyphen"/>ways suffered by censorious, unruly Professors on the one Hand, (and O what Divisions and Scandals have they caused!) as well as by the Prophane and Persecu<g ref="char:EOLhyphen"/>tors on the other. Take heed of both: And when Con<g ref="char:EOLhyphen"/>tentions are a foot, be quiet and silent, and not too forward; and keep up a Zeal for Love and Peace.</p>
+               <p n="15">XV. <hi>Be faithful and conscionable in all your</hi>
+                  <note n="g" place="bottom">Ephes. 5, &amp; 6. Col. 3, &amp; 4. Rom. 13. 1, 7. 1 Pet. 2. 13, 15.</note>
+                  <hi>Relations.</hi> Honour and obey your Parents, and other Superiors: Despise not, and resist not Government: If you suffer unjustly by them, be humbled for those Sins, which
+<pb n="29" facs="tcp:135190:17"/> cause God to turn your Protectors into Afflictors: And instead of murmuring and rebelling against them, re<g ref="char:EOLhyphen"/>form your selves, and then commit your selves to God. Princes and Pastors I will not speak to: Subjects, and Servants, and Children, must obey their Superiors, as the Officers of God.</p>
+               <p n="16">XVI. <hi>Keep up the Government of God in your</hi>
+                  <note n="h" place="bottom">Command. 4. Jos. 24. 15. Deut. 6. 6. 7, 8. Dan. 6.</note>
+                  <hi>
+                     <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>milies.</hi> Holy Families must be the chief preservers of the Interest of Religion in the World. Let not the World turn God's Service into a customary lifeless Form. Read the Scripture, and edifying Books to them: Talk with them seriously about the State of their Souls, and everlasting Life; Pray with them fervently; Watch over them diligently; Be angry against Sin, and meek in your own Cause; Be Examples of Wisdom, Holiness and Patience; And see that the Lord's Day be spent in holy preparation for Eternity.</p>
+               <p n="17">XVII. <hi>Let your</hi>
+                  <note n="i" place="bottom">Heb. 13. 5. Command. 4. 2 Thess. 3. 10, 12. 1 Thess. 4. 7. 1 Tim. 5. 13. Prov. 31. 1 Cor. 7. 29.</note>
+                  <hi>Callings be managed in Holiness and Laboriousness.</hi> Live not in idle<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ess; be not slothful in your Work, whether you be Bound or Free; in the sweat of your Brows you must <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>at your Bread, and la<g ref="char:EOLhyphen"/>bour the six Days, that you may have to give to him that needeth; Slothfulness is Sensuality as well as fil<g ref="char:EOLhyphen"/>thier Sins. The Body (that is able) must have sit Em<g ref="char:EOLhyphen"/>ployments as well as the Soul, or else Body and Soul▪ will fare the worse; but let all be but as the labour of a Traveller, and aim at God and Heaven in all.</p>
+               <p n="18">XVIII. <hi>Deprive not your selves of the benefit of an able faithful</hi>
+                  <note n="k" place="bottom">Mal. 2. 7.</note>
+                  <hi>Pastor, to whom you may open your Case in se<g ref="char:EOLhyphen"/>cret; or at least of a holy</hi>
+                  <note n="l" place="bottom">Eccles. 4. 10, 11.</note>
+                  <hi>faithful Friend: And be not</hi>
+                  <note n="m" place="bottom">Prov. 12. 1. &amp; 15. 5, 10, 31. Heb. 3. 13.</note>
+                  <hi>displeased at their free Reproofs.</hi> Wo to him that is alone! How blind and partial are we in our own Cause! and how hard is it to know our selves without an able
+<pb n="30" facs="tcp:135190:18"/> faithful Helper! You forfeit this great Mercy, when you love a Flatterer, and angrily defend your Sin.</p>
+               <p n="19">XIX. <note n="n" place="bottom">Luk. 12. 40. 2 Pet. 1. 10. Phil. 1. 21, 23. Jer. 9. 4, 5. Mat. 7. 4, 5. 2 Cor. 5. 1, 2, 4, 8.</note>
+                  <hi>Prepare for Sickness, Sufferings, and Death.</hi> Overvalue not Prosperity, nor the Favour of Man. If selfish Men prove false and cruel to you, even those of whom you have deserved best, marvel not at it, but pray for your Enemies, Persecutors, and Slande<g ref="char:EOLhyphen"/>rers, that God would turn their Hearts and pardon them. What a Mercy is it to be driven from the World to God, when the love of the World is the greatest danger of the Soul? Be ready to die, and you are ready for any thing. Ask your Hearts seriously, What is it that I shall need at a dying Hour? And let it speedily be got ready, and not be to seek in the time of your Ex<g ref="char:EOLhyphen"/>tremity.</p>
+               <p n="20">XX. <hi>Understand the true Method of Peace of Conscience, and judg not of the State of your Souls upon deceitful <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rounds.</hi> As presumptuous Hopes do keep Men from Conver<g ref="char:EOLhyphen"/>sion, and embolden them to sin; so causless Fears do hinder our Love and Praise of God, by obscuring his Loveliness: And they destroy our Thankfulness, and our Delight in God, and make us a Burden to our selves, and a grievous Stumbling block to others. The general Grounds of all your Comfort, are, 1. The <note n="o" place="bottom">Exod. 34. 6.</note> gracious Nature of God. 2. The <note n="p" place="bottom">Heb 7. 25.</note> sufficiency of Christ. And, 3. the Truth and <note n="q" place="bottom">Joh. 4. 42 Joh. 3. 16. 1 Tim. 4. 10. &amp; 2. 4. Mat. 28. 19, 20. Rev. 22. 17. Isa. 55. 1, 2, 3, 6, 7.</note> Universality of the Promise, which giveth Christ and Life to all, if they will accept him. But this Acceptance is the Proof of your particular Title, without which these do but ag<g ref="char:EOLhyphen"/>gravate your Sin. Consent to God's Covenant is the true Condition and Proof of your Title to God as your Father, Saviour, and Sanctifier, and so to the saving Blessings of the Covenant: Which Consent, if you sur<g ref="char:EOLhyphen"/>vive, must produce the Duties which you consent to.</p>
+               <pb n="31" facs="tcp:135190:18"/>
+               <p>He that heartily consenteth that God be his God, his Saviour and Sanctifier, is in a State of Life. But this includeth the <note n="r" place="bottom">Luke 14. 26, 33. 1 John 2. 15. Mat. 6. 19, 20, 21, 33. Col. 3. 1, 2. Rom. 8. 1, 13.</note> rejection of the World Much Know<g ref="char:EOLhyphen"/>ledge, and Memory, and Utterance, and lively Affe<g ref="char:EOLhyphen"/>ctions, are all very desirable: But you most judg your state by none of these, for they are all uncertain. But, 1. If God, and Holiness, and Heaven, have the highest estimation of your practical Judgment, as being esteem<g ref="char:EOLhyphen"/>ed best for you. 2. And be preferred in the Choice and Resolution of your Wills, and that habitually be<g ref="char:EOLhyphen"/>fore all the Pleasures of the World: 3. And be first and chiefly sought in your Endeavours; This is the in<g ref="char:EOLhyphen"/>fallible proof of your Sanctification.</p>
+               <p>Christian, Upon long and serious Study and Experi<g ref="char:EOLhyphen"/>ence, I dare boldly commend these Directions to thee, as the Way of God, which will end in Blessedness. The Lord resolve and strengthen thee to obey them.</p>
+               <p>This is the true Constitution of Christianity: This is true Godliness; and this is to be Religious indeed: And all this is no more than to be seriously such, as all a<g ref="char:EOLhyphen"/>mong us in general Words profess to be. This is the Religion which must difference you from Hypocrites; which must settle you in Peace, and make you an Ho<g ref="char:EOLhyphen"/>nour to your Profession, and a Blessing to those that dwell about you. Happy is the Land, the Church the Family, which doth consist of such as these! These are not they that either Persecute or Divide the Church; or that make their Religion a Servant to their Policy, to their ambitious Designs, or fleshly Lusts; nor that make it the Bellows of Sedition, or Rebellion, or of an en<g ref="char:EOLhyphen"/>vious hurtful Zeal, or a s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>are for the Innocent, or a Pistol to shoot at the Upright in Heart: These are not they that have been the shame of their Profession, the hardning of ungodly Men and Infidels, and that have caused the Enemies of the Lord to blaspheme. If any
+<pb n="32" facs="tcp:135190:19"/> Man will make a Religion of, or for his Lusts; of Pa<g ref="char:EOLhyphen"/>pal Tyranny, or Pharisaical Formality, or of his pri<g ref="char:EOLhyphen"/>vate Opinions, or of proud censoriousness, and con<g ref="char:EOLhyphen"/>tempt of others, and of Faction, and unwarrantable Separations and Divisions, and of standing at a more observable distance from common Professors of Chri<g ref="char:EOLhyphen"/>stianity, than God would have them; or yet of pulling up the Hedg of Discipline, and laying Christ's Vineyard common to the Wilderness; the Storm is coming, when this Religion founded on the Sand will fall, and great will be the Fall thereof: When the Religion which con<g ref="char:EOLhyphen"/>sisteth in Faith and Love to God and Man, in mortifying the Flesh, and crucifying the World, in Self-denial, Hu<g ref="char:EOLhyphen"/>mility and Patience, in sincere Obedience, and faithful<g ref="char:EOLhyphen"/>ness in all Relations, in watchful Self-Government, in doing Good, and in a Divine and Heavenly Life, tho' it will be hated by the ungodly World, shall never be a dishonour to your Lord, nor deceive or disappoint your Souls.</p>
+            </div>
+            <div type="part">
+               <head>A Short Catechism.</head>
+               <p>Quest. 1 <hi>WHat is the Christian Religion?</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> The Christian Religion is the Bap<g ref="char:EOLhyphen"/>tismal Covenant made and kept; wherein God the Fa<g ref="char:EOLhyphen"/>ther, Son, and Holy Ghost, doth give himself to be our reconciled God and Father, our Saviour and Sanctifier; and we believingly give up our selves accordingly to him, renouncing the Flesh, the VVorld, and the Devil. VVhich Covenant is to be oft renewed, specially in the Sacrament of the Lord's Supper.</p>
+               <p>Quest. 2. <hi>Where is our Covenant-part and Duty fullier opened?</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> 1. In the Creed, as the Sum of our Belief.</p>
+               <p n="2">2. In the Lord's Prayer, as the Sum of our Desires.</p>
+               <p n="3">3. And in the Ten Commandments, (as given us by Christ,
+<pb n="33" facs="tcp:135190:19"/> with the Gospel-Explications) as the Sum of our Practice. VVhich are as followeth.</p>
+               <div type="section">
+                  <head>The CREED.</head>
+                  <p>I Believe in God the Father Almighty, Creator of Hea<g ref="char:EOLhyphen"/>ven and Earth: And in Jesus Christ his only Son our Lord, which was conceived by the Holy Ghost, born of the Virgin <hi>Mary,</hi> suffered under <hi>Pontius Pilate,</hi> was cru<g ref="char:EOLhyphen"/>cified, dead and buried, he descended into Hell: The third day he arose again from the Dead, he ascended into Heaven, and sitteth on the right Hand of God the Father Almighty, from thence he shall come to judg the Quick and the Dead. I believe in the Holy Ghost, the Holy Catholick Church, the Communion of Saints, the Forgiveness of Sins, the Resurrection of the Body, and the Life Everlasting. <hi>Amen.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>The LORD's Prayer.</head>
+                  <p>OUR Father which art in Heaven, Hallowed be thy Name. Thy Kingdom come. Thy Will be done on Earth, as it is in Heaven. Give us this day our daily Bread. And forgive us our Trespasses, as we forgive them that trespass against us: And lead us not into Temptation, but deliver us from Evil: for thine is the Kingdom, and the Power, and the Glory for ever. <hi>Amen.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>The Ten Commandments.</head>
+                  <p n="1">I. IAm the Lord thy God which have brought thee out of the Land of <hi>Egypt,</hi> out of the House of Bon<g ref="char:EOLhyphen"/>dage: Thou shalt have no other Gods before me.</p>
+                  <p n="2">II. Thou shalt not make unto thee any graven I<g ref="char:EOLhyphen"/>mage, or any likeness of <hi>any thing</hi> that is in Heaven above, or that is in the Earth beneath, or that is in the Water under the Earth; thou shalt not bow down thy
+<pb n="34" facs="tcp:135190:20"/> self to them, nor serve them: For I the Lord thy God am a jealous God, visiting the iniquity of the Fathers upon the Children unto the third and fourth Gene<g ref="char:EOLhyphen"/>ration of them that hate me, and shewing Mercy unto thousands of them that love me and keep my Com<g ref="char:EOLhyphen"/>mandments.</p>
+                  <p n="3">III. Thou shalt not take the Name of the Lord thy God in vain; For the Lord will not hold him guiltless that taketh his Name in vain.</p>
+                  <p n="4">IV. Remember the Sabbath day to keep it holy; six days shalt thou labour and do all thy Work; but the seventh Day is the Sabbath of the Lord thy God, in it thou shalt not do any Work; thou, nor thy Son, nor thy Daughter, thy Man-servant, nor thy Maid servant, nor thy Cattel, nor the Stranger that is within thy Gates. For in six days the Lord made Heaven and Earth, the Sea, and all that in them is; and rested the seventh-Day; wherefore the Lord blessed the Sabbath-Day, and hallowed it.</p>
+                  <p n="5">V. Honour thy Father and thy Mother, that thy Days ma<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> be long upon the Land which the Lord thy God giveth thee.</p>
+                  <p n="6">VI. Thou shalt not Kill.</p>
+                  <p n="7">VII. Thou shalt not commit Adultery.</p>
+                  <p n="8">VIII. Thou shalt not Steal.</p>
+                  <p n="9">IX. Thou shalt not bear false Witness against thy Neighbour.</p>
+                  <p n="10">X. Thou shalt not covet thy Neighbour's House, thou shalt not covet thy Neighbour's Wife, nor his Man-Servant, nor his Maid-Servant, nor his Ox, nor his Ass, no<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> any thing that is thy Neighbour's.</p>
+                  <p>Quest. 3. <hi>Where is the Christian Religion most fully open<g ref="char:EOLhyphen"/>ed, and entirely contained?</hi>
+                  </p>
+                  <p>
+                     <hi>Answ.</hi> In the Holy Scriptures, especially of the New Testament: Where, by Christ, and his Apostles and Evangelists, inspired by his Spirit, the History of Christ and his Apostles is sufficiently delivered, the
+<pb n="35" facs="tcp:135190:20"/> Promises and Doctrine of Faith are perfected, the Covenant of Grace most clearly opened, and Church-Offices, Worship, and Discipline established; in the understanding whereof, the strongest Christians may increase whilst they live on Earth.</p>
+               </div>
+               <div type="section">
+                  <head>The explained Profession of the Christian Re<g ref="char:EOLhyphen"/>ligion.</head>
+                  <p n="1">I. I Believe that there is one GOD, an infinite Spirit of Life, Understanding and Will; perfectly Pow<g ref="char:EOLhyphen"/>erful, Wise and Good; The Father, the Word, and the Spirit, the Creator, Go<g ref="char:EOLhyphen"/>vernour,<note place="margin">The Assent.</note> and End of all things; our ab<g ref="char:EOLhyphen"/>solute Owner, our most just Ruler, and our most gra<g ref="char:EOLhyphen"/>cious Benefactor, and most amiable Good.</p>
+                  <p n="2">II. I believe that Man being made in the Image of God, an imbodied Spirit of <hi>Life, Ʋnderstanding</hi> and <hi>Will,</hi> with holy Vivacity, Wisdom and Love, to know, and love, and serve his Creator, here and for ever, did by wilful sinning fall from his God, his Holiness, and Inno<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ency, under the Wrath of God, the Condemnation of his Law, and the Sla<g ref="char:EOLhyphen"/>very of the Flesh, the World, and the Devil. And that God so loved the World, that he gave his only Son to be their Redeemer, who being GOD, and one with the Father, took our Nature, and became MAN: being conceived by the Holy Ghost, born of the Vir<g ref="char:EOLhyphen"/>gin <hi>Mary,</hi> called Jesus Christ, who was perfectly holy, sinless, fulfilling all Righteousness, overcame the Devil and the World, and gave himself a Sacri<g ref="char:EOLhyphen"/>fice for our Sins, by suffering a cursed Death on the Cross, to ransom us, and reconcile us unto God; and was buried, and went among the Dead; the third Day he rose again, having conquered Death. And he fully established the Covenant of Grace, that all that truly repent and believe, shall have the Love
+<pb n="36" facs="tcp:135190:21"/> of the Father, the Grace of the Son, and the Com<g ref="char:EOLhyphen"/>munion of the Holy Spirit; and if they love God, and obey him sincerely to the Death, they shall be glori<g ref="char:EOLhyphen"/>fied with him in Heaven for ever: And the Un<g ref="char:EOLhyphen"/>believers, Impenitent, and Ungodly shall go to ever<g ref="char:EOLhyphen"/>lasting Punishment. And having commanded his Apostles to Preach the Gospel to all the World, and promised his Spirit, he ascended into Heaven: Where he is the glorified Head over all Things to the Church, and our prevailing Intercessor with the Father: who will there receive the departed Souls of the Justified: and at the end of this World will come again and raise all the Dead, and will judg all according to their Works, and justly execute his Judgment.</p>
+                  <p n="3">III. I believe that God, the Holy Spirit, was given by the Father and the Son, to the Prophets, Apo<g ref="char:EOLhyphen"/>stles, and Evangelists, to be their infallible Guide in preaching and recording the Doctrine of Salva<g ref="char:EOLhyphen"/>tion; and the <hi>Witness</hi> of its certain Truth, by his ma<g ref="char:EOLhyphen"/>nifold Divine Operations; and to quicken, illuminate, and sanctify all true Believers, that they may overcome the Flesh, the World, and the Devil. And all that are thus sanctified, are one holy Catholick Church of Christ, and must live in holy Communion, and have the pardon of their Sins, and shall have everlasting Life.</p>
+                  <p>Believing in God the Father, Son and Holy Spirit, I do presently, absolutely, and resolvedly give up thy self to him, my Creator and<note place="margin">The Consent or Covenant.</note> reconciled God and Father, my Saviour and Sanctifier: And repenting of my Sins, I renounce the Devil, the World, and the sinful Desires of the Flesh: And denying my self, and ta<g ref="char:EOLhyphen"/>king up my Cross, I consent to follow Christ the Captain of my Salvation, in hope of his promised Grace and Glory.</p>
+               </div>
+            </div>
+            <div type="part">
+               <pb n="37" facs="tcp:135190:21"/>
+               <head>A SHORT CATECHISM for those that have learned the first.</head>
+               <p>Quest. 1. <hi>WHat do you believe concerning GOD?</hi>
+               </p>
+               <p>1. <hi>Assent. Answ.</hi> There is one only God; an In<g ref="char:EOLhyphen"/>finite Spirit of Life, Understanding and Will, most perfectly Powerful, Wise and Good; The <hi>Father,</hi> the <hi>Word,</hi> and the <hi>Spirit:</hi> The Creator, Governour, and End of all things; Our Absolute Owner, our most Just Ruler, and our most Gracious and most Amiable Father.</p>
+               <p>Quest. 2. <hi>What believe you of the Creation, and the na<g ref="char:EOLhyphen"/>ture of Man, and the Law which was given to him?</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> God created all the world: And made MAN in his own <hi>Image,</hi> an imbodied Spirit of Life, Under<g ref="char:EOLhyphen"/>standing and Will? with holy Liveliness, Wisdom and Love; to know, and love, and serve his Maker, here and for ever: and gave him the inferiour Creatures for his use: But forbad him to eat of the Tree of Knowledge, upon pain of Death.</p>
+               <p>Quest. 3. <hi>What believe you of Mans fall into sin and misery?</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> Man being tempted by Satan, did by wilful sinning fall from his Holiness, his Innocency, and his Happiness, under the Justice of God, the condemna<g ref="char:EOLhyphen"/>tion of his Law, and the slavery of the Flesh, the World, and the Devil; whence sinful, guilty and miserable Natures are propagated to all Mankind: And no meer Creature is able to deliver us.</p>
+               <p>Quest. 4. <hi>What believe you of Mans Redemption by Je<g ref="char:EOLhyphen"/>sus Christ?</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> God so loved the World, that he gave his only Son to be their Saviour: Who being GOD, and One with the Father, took our Nature, and became MAN; being conceived by the Holy Ghost; Born of
+<pb facs="tcp:135190:22"/> the Virgin <hi>Mary;</hi> and called JESUS CHRIST: wh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> was perfectly holy, without sin, fulfilling all Righteous<g ref="char:EOLhyphen"/>ness; and overcame the Devil and the World; and gave himself a Sacrifice for our Sins, by suffering a Cursed Death on the Cross to ransom us, and reconcile us unto God; and was buried, and went among the Dead: the third day he rose again, having conquered Death; and having sealed the New Covenant with his Blood, he commanded his Apostles and other Mini<g ref="char:EOLhyphen"/>sters, to preach the Gospel to all the World; and pro<g ref="char:EOLhyphen"/>mised the Holy Ghost: And then ascended into Hea<g ref="char:EOLhyphen"/>ven, where he is God and Man, the Glorified Head over all things to his Church, and our prevailing In<g ref="char:EOLhyphen"/>tercessor with God the Father.</p>
+               <p>Quest. 5. <hi>What is the New Testament, or Covenant, or Law of Grace?</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> God through Jesus Christ, doth freely give to all Mankind, himself to be their Reconciled God and Father, his Son to be their Saviour, and his Holy Spi<g ref="char:EOLhyphen"/>rit to be their Sanctifier, if they will believe and ac<g ref="char:EOLhyphen"/>cept the Gift, and will give up themselves to him ac<g ref="char:EOLhyphen"/>cordingly; Repenting of their sins and consenting to forsake the Devil, the World, and the Flesh, and <hi>sin<g ref="char:EOLhyphen"/>cerely</hi> (though not perfectly) to obey Christ and his Spi<g ref="char:EOLhyphen"/>rit to the end, according to the Law of Nature, and his Gospel institutions, that they may be glorified in Heaven for ever.</p>
+               <p>Quest. 6. <hi>What believe you of the Holy Ghost?</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> God the Holy Spirit was given by the Father and the Son to the Prophets, Apostles, and Evange<g ref="char:EOLhyphen"/>lists, to be their infallible Guide in Preaching and Re<g ref="char:EOLhyphen"/>cording the Doctrine of Salvation; and the Witness of its certain▪ Truth by his manifold Divine Operations. And he is given, to quicken, illuminate, and sancti<g ref="char:EOLhyphen"/>fie all true Believers, and to save them from the De<g ref="char:EOLhyphen"/>vil, the World, and the Flesh.</p>
+               <p>Quest. 7. <hi>What believe you of the Holy Catholick Church, the Communion of Saints, and the forgiveness of Sins?</hi>
+               </p>
+               <pb facs="tcp:135190:22"/>
+               <p>
+                  <hi>Answ.</hi> All that truely consent to the Baptismal Co<g ref="char:EOLhyphen"/>venant, are one sanctified <hi>Church</hi> or <hi>Body</hi> of Christ, and have Communion in the same Spirit of Faith and Love, and have the forgiveness of all their sins; and all that by Baptism <hi>visibly</hi> Covenant, and that continue to profess Christianity and Holiness, are the universal visible Church on Earth; and must keep holy Com<g ref="char:EOLhyphen"/>munion with Love and Peace in the particular Chur<g ref="char:EOLhyphen"/>ches; in the Doctrine, Worship, and Order instituted by Christ.</p>
+               <p>Quest. 8. <hi>What believe you of the</hi> Resurrection <hi>and</hi> Everlasting Life?</p>
+               <p>
+                  <hi>Answ.</hi> At Death the Souls of the Justified go to Happiness with Christ, and the Souls of the Wicked to misery: And at the end of this World, Christ will come in Glory, and will raise the Bodies of all Men from Death, and will Judge all according to their Works: And the Righteous shall go into Everlasting Life, where being made perfect themselves, they shall <hi>see God, and perfectly Love and Praise him with Christ,</hi> and all the glorified Church; and the rest into Ever<g ref="char:EOLhyphen"/>lasting punishment.</p>
+               <p>Quest. 9. <hi>You have told me what you</hi> II. <hi>Consert. Believe: Tell me now what is the full</hi> Re<g ref="char:EOLhyphen"/>solution <hi>and</hi> Desire of your Will, <hi>concerning all this which you Believe?</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> Believing in God the Father, Son, and Holy Spirit, I do presently, absolutely and resolvedly give up my self to Him, my Creator and reconciled God and Father, my Saviour, and my Sanctifier. And Repenting of my sins I renounce the Devil, the World, and the sinful desires of the Flesh. And denying my self, and taking up my Cross, I consent to follow Christ the Captain of my Salvation; in Hope of the Grace and Glory promised. Which I daily desire and beg as he hath taught me, saying [<hi>Our Father which art in Heaven,</hi> &amp;c.</p>
+               <p>Quest. 10. <hi>What is that</hi> Practice <hi>which by this Covenant you are obliged to?</hi>
+               </p>
+               <pb n="40" facs="tcp:135190:23"/>
+               <p>
+                  <hi>Answ.</hi> According to the Law of Nature, and Christ<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Institutions I must (desiring Perfection) sincerely Obey him in a Life of <hi>Faith,</hi> and <hi>Hope,</hi> and <hi>Love</hi> Loving God as God, for himself above all, and loving my self as his Servant, especially my Soul; and seeking its holiness and Salvation; and Loving my Neighbour as my self. I must avoid all Idolatry of Mind or Body and must Worship God according to his Word, by learning and meditating on his Word; by Prayer Thanksgiving. Praise, and use o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> his Sacrament: I must not pro<g ref="char:EOLhyphen"/>fane,<note place="margin">
+                     <hi>The Lord's Supper, and other Church-Ordinances, are o<g ref="char:EOLhyphen"/>pened in the VIIIth.</hi> days Conference, <hi>and more fully in my</hi> Universal Con<g ref="char:EOLhyphen"/>cord.</note> but holily use his holy Name I must keep holy the Lord's Day especially in Communion with the Church Assemblies: I must Ho<g ref="char:EOLhyphen"/>nour and Obey my Parents, Ma<g ref="char:EOLhyphen"/>gistrates, Pastors, and other Ru<g ref="char:EOLhyphen"/>lers: I must not wrong my Neigh<g ref="char:EOLhyphen"/>bour in thought, word, or deed in his Soul, his Body, his Chastity, Estate, Right o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Propriety; but do him all the good I can: And do a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> I would be done by; which is summed up in the Te<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Commandments, [<hi>God spake these words, saying,</hi> &amp;c.</p>
+            </div>
+            <div type="part">
+               <head>A Prayer for Families in the method of the Lords Prayer, being but an Exposition of it.</head>
+               <p>MOST Glorious GOD, who art Power, and Wisdom, and Goodness it self, the Creator o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> all things; the <hi>Owner,</hi> the <hi>Ruler,</hi> and the <hi>Benefactor</hi> of the World, but especially of thy Church and chose<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ones: Though by sin original and actual we were thy Enemies, the Slaves of Satan and our Flesh, and under thy displeasure, and the condemnation of thy Law yet thy Children, Redeemed by Jesus Christ thy Son and Regenerated by thy Holy Spirit, have leave to cal
+<pb n="41" facs="tcp:135190:23"/> thee their <hi>reconciled Father:</hi> For by thy Covenant of Grace thou hast given them thy Son to be their Head, their Teacher, and their Saviour: And in Him thou hast pardoned, adopted, and sanctified them; sealing and preparing them by thy Holy Spirit, for thy C<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>lestia<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Kingdom, and beginning in them that holy <hi>life,</hi> and <hi>light,</hi> and <hi>love,</hi> which shall be perfected with thee in Everlasting Glory. O with what wondrous love hast thou loved us, that of Rebels we should be made the Sons of God! Thou hast advanced us to this dig<g ref="char:EOLhyphen"/>nity, that we might be <hi>devoted</hi> wholly to Thee as Thine Own, and might delightfully <hi>obey Thee,</hi> and entirely <hi>love Thee</hi> with all our Heart; and so might glorifie thee here and for ever.</p>
+               <p>O cause both us, and all thy Churches, and all the World, to hallow thy great and holy Name! And to live to Thee as our Ultimate End; that thy shining Image on Holy Souls may Glorifie thy Divine Per<g ref="char:EOLhyphen"/>fection.</p>
+               <p>And cause both us and all the Earth, to cast off the tyranny of Satan and the Flesh, and to acknowledge thy Supream Authority, and to become the Kigndoms of Thee and thy Son Jesus, by a willing and absolute subjection. O perfect thy Kingdom of Grace in our selves and in the World, and Easten the Kingdom of Glory.</p>
+               <p>And cause us and thy Churches, and all people of the Earth, no more to be ruled by the <hi>lusts</hi> of the <hi>Flesh,</hi> and their Erron<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ous Conceits, and by <hi>Self-will,</hi> which is the Idol of the Wicked; but by thy <hi>perfect Wisdom</hi> and <hi>holy Will</hi> revealed in thy Laws: Make known thy Word to all the World, and send them the Messengers of Grace and Peace; and cause Men to <hi>understand, believe and obey,</hi> the Gospel of Salvation: And that, with such Holiness, Unity, and Love, that the Earth, which is now too like to Hell, may be made liker unto Heaven; and not only thy scattered imperfect Flock, but those also, who in their carnal
+<pb n="42" facs="tcp:135190:24"/> and ungodly minds do now refuse a holy Life, and think thy <hi>Word</hi> and <hi>Ways</hi> too strict, may desire to imi<g ref="char:EOLhyphen"/>tate even the Heavenly Church; where Thou art o<g ref="char:EOLhyphen"/>beyed, and loved, and praised, with high Delight, in Harmony and Perfection.</p>
+               <p>And because our <hi>Being</hi> is the subject of our <hi>well<g ref="char:EOLhyphen"/>being,</hi> maintain us in the life which thou hast here given us, until the work of life be finished; And give us such health of Mind and Body, and such protection and supply of all our wants, as shall best fit us for our Duty; And make us contented with our <hi>daily</hi> Bread, and patient if we want it; And save us from the love of the Riches, and Honours, and Pleasures of this World, and the Pride, and Idleness, and Sen<g ref="char:EOLhyphen"/>suality which they cherish; And cause us to serve thy Providence by our diligent Labours, and to serve thee faithfully with all that thou givest us; And let us not make provision for the Flesh, to satisfie its desires and lusts.</p>
+               <p>And we beseech thee of thy Mercy, through the Sa<g ref="char:EOLhyphen"/>crifice and Propitiation of thy Beloved Son, for<g ref="char:EOLhyphen"/>give us all our sins, original and actual, from our Birth to this Hour; our omissions of Duty, and com<g ref="char:EOLhyphen"/>mitting of what thou didst forbid: Our sins of heart, and word, and deed; our sinful thoughts and affecti<g ref="char:EOLhyphen"/>ons, our sinful passions and discontents; our secret and our open sins; our sins of negligence, and igno<g ref="char:EOLhyphen"/>rance, and rashness; but especially our sins against Knowledge and Conscience, which have made the deepest guilt and wounds. Spare us, O Lord, and let not our sins so find us out as to be our ruin; but let us so find them out, as truely to repent and turn to thee! Especially punish us not with the loss of thy Grace! Take not thy Holy Spirit from us, and deny us not his assistance and holy operations. Seal to us by that Spirit the pardon of our sins, and lift up the light of thy Countenance upon us, and give us the joy of thy Favour and Salvation. And let thy Love and
+<pb n="43" facs="tcp:135190:24"/> Mercy so fill us not only with Thankfulness to Thee▪ but with Love and Mercy to our Brethren and our Enemies; that we may heartily forgive them that do us wrong, as through thy Grace we hope we do.</p>
+               <p>And for the time to come, suffer us not to cast our selves wilfully into Temptations; but carefully to a<g ref="char:EOLhyphen"/>void them, and resolutely to resist and conquer what we cannot avoid; And O mortifie those inward sins and lusts, which are our constant and most dangerous Temptations: And let us not be tempted by Satan or the World, or tryed by thy Judgments, above the strength which thy Grace shall give us. Save us from a fearless confidence in our own strength: And let us not dally with the snare, nor taste the bait, nor play with the Fire of thy wrath; But cause us to fear and depart from evil; le<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t before we are aware, we be entangled and overcome, and wounded with our Guilt and with thy Wrath, and our end should be worse than our beginning. Especially save us from those radical sins of Error, and Unbelief, Pride, Hy<g ref="char:EOLhyphen"/>pocrisie, Hardheartedness, Sensuality, Slothfulness, and the love of this present World, and the loss of our love to Thee, to thy Kingdom and thy ways.</p>
+               <p>And save us from the malice of Satan and of wick<g ref="char:EOLhyphen"/>ed Men, and from the evils which our sins would bring upon us.</p>
+               <p>And as we crave all this from thee, we humbly render our Praises with our future service to thee! Thou art the King of all the World, and more than the Life of all the Living! Thy Kigndom is Everlast<g ref="char:EOLhyphen"/>ing: Wise, and Just, and Merciful is thy Govern<g ref="char:EOLhyphen"/>ment. Blessed are they that are thy faithful Subjects; But who hath hardened himself against thee, and hath prospered? The whole Creation proclaimeth thy Per<g ref="char:EOLhyphen"/>fection: But it is Heaven where the Blessed see thy Glory, and the Glory of our Redeemer, where the Angels and Saints behold thee, admire thee, adore thee, love thee, and praise thee with triumphant jo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>▪
+<pb n="44" facs="tcp:135190:25"/> ful Songs, the Holy, Holy, Holy God, the Father, Son and Holy Ghost, who was and is, and is to come; Of Thee, and through Thee, and to Thee are all things: To Thee, be Glory for ever, <hi>Amen.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>A short Prayer for Families.</head>
+               <p>MOst Glorious, everliving God, Father, Son and Holy Ghost, infinite in thy Power, Wisdom and Goodness; Thou art the Creator of all the World, the Redeemer of lost Mankind, and the Sanctifyer of thine Elect. Thou hast made us living reasonable Souls, placed a while on Earth in flesh, to seek, and know, and love and serve thee, which we should have done with all our soul and might: For we and all things are Thine own, and Thou art more to us than all the World. This should have been the greatest Business, Care and Pleasure of our Lives: We were bound to it by thy Law, and invited by thy Love and Mercy, and the Promise of a Reward in Heaven: And in our Bap<g ref="char:EOLhyphen"/>tism we were devoted to this Christian Life of Faith and Holiness, by a solemn Covenant and Vow. But with Grief and Shame we do confess, that we have been too unfaithful to that Covenant, and too much neglected the Lord our Father, our Saviour and our Sanctifyer, to whom we were devoted; And have too much served the Flesh, and the World, and the Devil which we re<g ref="char:EOLhyphen"/>nounced. We have added to our Original Sin, the guilt of unthankfulness for a Saviour, and resisting his Spirit &amp; Grace that should have renewed, governed and saved us. We have spent much of our lives, in fleshly and worldly Vanity, and sinfully neglected the greatest work, of making a sure Preparation for Death and Judgment, and our endless state. In a Custom of sinning we have hardened our Hearts against thy Word and Warnings, and the Reproofs of thy Ministers and of our Consciences that have oft told us of our Sin and Danger, and called us to Repent.</p>
+               <pb n="45" facs="tcp:135190:25"/>
+               <p>And now, O Lord, our convinced Souls confess that we deserve to be forsaken by thee, and left to our own lust and folly, and to the deceits of Satan, and unto endless Misery. But seeing thou hast given a Sa<g ref="char:EOLhyphen"/>viour to lost Man, and a pardoning Covenant, through the Merits of Christ, promising forgiveness and salva<g ref="char:EOLhyphen"/>tion to every true penitent Believer; we thankfully accept thy offered Mercy, and penitently bewail our Sin, and cast our miserable Souls upon thy Grace, and the Sacrifice, Merits and Intercession of our Redeemer. Forgive all the Sins of our Hearts and Lives; and as a reconciled Father take us as thy adopted Children in Christ. O give us thy renewing Spirit, to be in us a powerful and constant Author of Holy Light, and Love and Life, to fit us for all our Duty, and for Commu<g ref="char:EOLhyphen"/>nion with thee, and for Everlasting life: And to dwell in us as thy witness and seal of our Adoption. Let him be better to our Souls than our Souls are to our Bodies, Teaching us thy Word and Will, and bringing all our love and will to a joyful compliance with thy Will: and quickening our dull and drowsie Hearts to a holy and heavenly Conversation. Let him turn all our sin<g ref="char:EOLhyphen"/>ful Pleasures and Desires, into the delightful love of thee and of thy Ways and Servants. Save us from the great Sins of Selfishness, Pride, and Worldliness, and give us Self-denyal, Humility and a heavenly Mind. That while we are on Earth our Hearts may be in Heaven, where we hope to live in thy joyful love and praise with Christ and all his holy ones for ever. Let us never forget that this Life is short, and that the Life to come is endless: that our Souls are precious and our Bodies vile, and must shortly turn to rotten<g ref="char:EOLhyphen"/>ness and dust; that Sin is odious, and Temptations dangerous, and Judgment dreadful to unprepared guilty Souls: and that without a Saviour and his Grace and Spirit, there is no Salvation: Cause us to live as we would die, and let no Temptation, Company or Business, draw us to forget our God and our ever<g ref="char:EOLhyphen"/>lasting state.</p>
+               <pb n="46" facs="tcp:135190:26"/>
+               <p>Lord bless the World, and specially these Kingdoms, with Wise, Godly, Just and peaceable Princes, and inferiour Judges and Magistrates; and guide, protect and prosper them for the common good, and the pro<g ref="char:EOLhyphen"/>moting of Godliness, and suppressing of Sin: And bless all Churches with able, godly, faithful Pastors, that are zealous Lovers of God, and Goodness and the Peoples Souls. And save the Nations and Churches from op<g ref="char:EOLhyphen"/>pressing Tyrants and Deceivers, and from malignant Enemies to serious Piety. And cause Subjects to live in just Obedience, and in Love and Peace. Bless Fa<g ref="char:EOLhyphen"/>milies with wise religious Governours, who will care<g ref="char:EOLhyphen"/>fully instruct their Children and Servants, and restrain them from Sin, and keep them from Temptation, Teach Children and Servants to fear God, and honour and obey their Governours.</p>
+               <p>
+                  <hi>O Our Father which art in Heaven, Let thy Name be hallowed. Let thy Kingdom come. Let thy will be done on Earth as it is in Heaven. Give us this day our daily Bread, Forgive us our Trespasses, as we forgive them that Trespass against us. Lead us not into Temptation, but Deliver us from Evil: For thine is the Kingdom, the Power and the Glory, for ever.</hi> Amen.</p>
+            </div>
+            <div type="part">
+               <pb n="47" facs="tcp:135190:26"/>
+               <head>Before Meat.</head>
+               <p>MOst Gracious God who hast given us Christ, and with him all that is ne<g ref="char:EOLhyphen"/>cessary to Life and Godliness: We thank<g ref="char:EOLhyphen"/>fully take this our Food as the Gift of thy Bounty, procured by his Merits: Bless it to the Nourishment and Strength of our frail Bodies, to fit us for thy chearful Service: And save us from the abuse of thy Mercies by Gluttony, Drunkenness, Idleness or sinful fleshly Lusts, for the sake of Jesus Christ our only Saviour and Lord. <hi>Amen.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>After Meat.</head>
+               <p>MOst merciful Father, Accept of our Thanks for these and all thy Mercies: And give us yet more thankful Hearts: O give us more of the great Mercies proper to thy Children, even thy Sanctifying and Com<g ref="char:EOLhyphen"/>forting Spirit, assurance of thy Love through Christ, and a Treasure, and a Heart and Con<g ref="char:EOLhyphen"/>versation in Heaven: And bring and keep us in a constant readiness for a safe and comfor<g ref="char:EOLhyphen"/>table Death: For the sake of Jesus Christ our Lord and only Saviour. <hi>Amen.</hi>
+               </p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:135190:27"/>
+            <head>Books Printed for, and Sold by <hi>Tho. Parkhurst</hi> at the <hi>Bible</hi> and <hi>Three Crowns</hi> at the lower end of <hi>Cheapside,</hi> near <hi>Mercers Chapel.</hi>
+            </head>
+            <p>THe Believer's Daily Exercise: Or, The Scripture Pre<g ref="char:EOLhyphen"/>cept of being in the fear of the Lord all the day long. Explained and urged, in Four Sermons. By <hi>John Billingsley,</hi> Minister of the Gospel.</p>
+            <p>The Principles of the Doctrine of Christ: Or, A Cate<g ref="char:EOLhyphen"/>chism, in which is contained the Sum of the <hi>Christian Reli<g ref="char:EOLhyphen"/>gion;</hi> or what is necessary to be <hi>believed</hi> and <hi>done</hi> in order to <hi>Salvation.</hi> The Answers being but <hi>Seventeen</hi> in number; and in very plain words, easie to be understood. Unto which is added, A Catechism for Conscience; Wherein, The Consciences of the <hi>Ignorant,</hi> the <hi>grosly Profane,</hi> the <hi>Young,</hi> the <hi>meerly Moral,</hi> and the <hi>Hypocrites,</hi> are examined, in order to their <hi>Instruction</hi> and <hi>Awakening;</hi> and the Consciences of the <hi>sincere Christians</hi> are tried in order to their <hi>Peace</hi> and <hi>Comfort.</hi> By <hi>Nathanael Vincent,</hi> M. A. Minister of the Gospel.</p>
+            <p>Meetness for Heaven promoted in some brief Medita<g ref="char:EOLhyphen"/>tions upon <hi>Col.</hi> 1. 12. Discovering the Nature and Necessity of habitual and actual Mee<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ness for Heaven here, in all that hope for Heaven hereafter. By <hi>O. H.</hi> an unworthy Mi<g ref="char:EOLhyphen"/>nister of the Gospel of Christ.</p>
+            <p>A Sure Guide to Heaven: Or, An Earnest Invitation to Sinners to turn to God, in order to their Eternal Salvation. Shewing the thoughtful Sinner what he must do to be saved. By <hi>Joseph All<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ine</hi> late Minister of the Gospel at <hi>Taunton</hi> in <hi>Somersetshire.</hi>
+            </p>
+            <p>Characters of a Godly Man. Both, as more and less Grown in Grace. <hi>By Daniel <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>ss,</hi> Minister of the Gospel.</p>
+            <pb facs="tcp:135190:27"/>
+         </div>
+      </back>
+   </text>
+</TEI>
